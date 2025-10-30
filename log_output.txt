@@ -1,0 +1,909 @@
+[2025-10-10 10:05:44] === Iniciando processamento em lote ===
+[2025-10-10 10:05:44] Personalização de nome: ATIVADA
+[2025-10-10 10:05:44] Total de protocolos a processar: 1
+[2025-10-10 10:06:10] Retomando do protocolo 1
+[2025-10-10 10:06:10] Processando protocolo 1/1: 251023267595
+[2025-10-10 10:06:18] Nome do cliente encontrado: F S LEAO E C R DO NASCIMENTO LTDA
+[2025-10-10 10:06:18] Script personalizado: @NomeCliente@ -> F
+[2025-10-10 10:06:30] Concluído: Protocolo 251023267595
+[2025-10-10 10:06:30] Processamento finalizado em 19.37 segundos
+[2025-10-10 10:06:30] Protocolos processados: 1
+[2025-10-10 10:07:01] Driver fechado
+[2025-10-10 10:08:36] === Iniciando processamento em lote ===
+[2025-10-10 10:08:36] Personalização de nome: ATIVADA
+[2025-10-10 10:08:37] Total de protocolos a processar: 1
+[2025-10-10 10:08:56] Retomando do protocolo 2
+[2025-10-10 10:08:56] Processamento finalizado em 0.00 segundos
+[2025-10-10 10:08:56] Protocolos processados: 0
+[2025-10-10 10:09:00] Driver fechado
+[2025-10-10 10:09:03] === Iniciando processamento em lote ===
+[2025-10-10 10:09:03] Personalização de nome: ATIVADA
+[2025-10-10 10:09:03] Total de protocolos a processar: 1
+[2025-10-10 10:09:19] Retomando do protocolo 2
+[2025-10-10 10:09:19] Processamento finalizado em 0.00 segundos
+[2025-10-10 10:09:19] Protocolos processados: 0
+[2025-10-10 10:09:26] === Iniciando processamento em lote ===
+[2025-10-10 10:09:26] Personalização de nome: ATIVADA
+[2025-10-10 10:09:26] Total de protocolos a processar: 1
+[2025-10-10 10:09:27] Driver fechado
+[2025-10-10 10:09:45] Retomando do protocolo 1
+[2025-10-10 10:09:45] Processando protocolo 1/1: 251023268172
+[2025-10-10 10:09:53] Nome do cliente encontrado: RODRIGO DO CARMO LAGE
+[2025-10-10 10:09:53] Script personalizado: @NomeCliente@ -> Rodrigo
+[2025-10-10 10:10:06] Concluído: Protocolo 251023268172
+[2025-10-10 10:10:06] Processamento finalizado em 20.12 segundos
+[2025-10-10 10:10:06] Protocolos processados: 1
+[2025-10-10 10:10:16] Driver fechado
+[2025-10-10 10:12:18] === Iniciando processamento em lote ===
+[2025-10-10 10:12:18] Personalização de nome: ATIVADA
+[2025-10-10 10:12:18] Total de protocolos a processar: 1
+[2025-10-10 10:12:38] Retomando do protocolo 1
+[2025-10-10 10:12:38] Processando protocolo 1/1: 251023266995
+[2025-10-10 10:12:42] Sem ação: Protocolo 251023266995 com fase FINALIZADA
+[2025-10-10 10:12:42] Processamento finalizado em 4.28 segundos
+[2025-10-10 10:12:42] Protocolos processados: 1
+[2025-10-10 10:12:48] Driver fechado
+[2025-10-10 10:13:05] === Iniciando processamento em lote ===
+[2025-10-10 10:13:05] Personalização de nome: ATIVADA
+[2025-10-10 10:13:05] Total de protocolos a processar: 1
+[2025-10-10 10:13:22] Retomando do protocolo 1
+[2025-10-10 10:13:22] Processando protocolo 1/1: 251023266995
+[2025-10-10 10:13:27] Sem ação: Protocolo 251023266995 com fase FINALIZADA
+[2025-10-10 10:13:27] Processamento finalizado em 4.85 segundos
+[2025-10-10 10:13:27] Protocolos processados: 1
+[2025-10-10 10:13:32] Driver fechado
+[2025-10-10 10:19:21] === Iniciando processamento em lote ===
+[2025-10-10 10:19:21] Personalização de nome: ATIVADA
+[2025-10-10 10:19:21] Erro fatal: Erro ao ler arquivo Excel: [Errno 22] Invalid argument: 'C:/Users/794080663/Downloads/Teste.xlsxC:/Users/794080663/Downloads/Teste.xlsx'
+[2025-10-10 10:20:04] === Iniciando processamento em lote ===
+[2025-10-10 10:20:04] Personalização de nome: ATIVADA
+[2025-10-10 10:20:04] Erro fatal: Erro ao ler arquivo Excel: [Errno 22] Invalid argument: 'C:/Users/794080663/Downloads/Teste.xlsxC:/Users/794080663/Downloads/Teste.xlsx'
+[2025-10-10 10:20:14] === Iniciando processamento em lote ===
+[2025-10-10 10:20:14] Personalização de nome: ATIVADA
+[2025-10-10 10:20:14] Total de protocolos a processar: 223
+[2025-10-10 10:20:32] Retomando do protocolo 1
+[2025-10-10 10:20:32] Processando protocolo 1/223: 251023266995
+[2025-10-10 10:20:36] Sem ação: Protocolo 251023266995 com fase FINALIZADA
+[2025-10-10 10:20:36] Processando protocolo 2/223: 251023267595
+[2025-10-10 10:20:43] Nome do cliente encontrado: F S LEAO E C R DO NASCIMENTO LTDA
+[2025-10-10 10:20:43] Script personalizado: @NomeCliente@ -> F
+[2025-10-10 10:20:54] Concluído: Protocolo 251023267595
+[2025-10-10 10:20:54] Processando protocolo 3/223: 251023267851
+[2025-10-10 10:20:58] Sem ação: Protocolo 251023267851 com fase FINALIZADA
+[2025-10-10 10:20:58] Processando protocolo 4/223: 251023267568
+[2025-10-10 10:21:02] Sem ação: Protocolo 251023267568 com fase FINALIZADA
+[2025-10-10 10:21:02] Processando protocolo 5/223: 251023268086
+[2025-10-10 10:21:06] Sem ação: Protocolo 251023268086 com fase FINALIZADA
+[2025-10-10 10:21:06] Processando protocolo 6/223: 251023268172
+[2025-10-10 10:21:10] Sem ação: Protocolo 251023268172 com fase FINALIZADA
+[2025-10-10 10:21:10] Processando protocolo 7/223: 251023268168
+[2025-10-10 10:21:14] Sem ação: Protocolo 251023268168 com fase FINALIZADA
+[2025-10-10 10:21:14] Processando protocolo 8/223: 251023268594
+[2025-10-10 10:21:18] Sem ação: Protocolo 251023268594 com fase FINALIZADA
+[2025-10-10 10:21:18] Processando protocolo 9/223: 251023268669
+[2025-10-10 10:21:24] Nome do cliente encontrado: MAIONESE SAN REMO LTDA
+[2025-10-10 10:21:24] Script personalizado: @NomeCliente@ -> Maionese
+[2025-10-10 10:21:36] Concluído: Protocolo 251023268669
+[2025-10-10 10:21:36] Processando protocolo 10/223: 251023268913
+[2025-10-10 10:21:39] Sem ação: Protocolo 251023268913 com fase FINALIZADA
+[2025-10-10 10:21:39] Processando protocolo 11/223: 251023268956
+[2025-10-10 10:21:43] Sem ação: Protocolo 251023268956 com fase FINALIZADA
+[2025-10-10 10:21:43] Processando protocolo 12/223: 251023269458
+[2025-10-10 10:21:49] Nome do cliente encontrado: MAIANA SILVA MOREIRA
+[2025-10-10 10:21:49] Script personalizado: @NomeCliente@ -> Maiana
+[2025-10-10 10:22:01] Concluído: Protocolo 251023269458
+[2025-10-10 10:22:01] Processando protocolo 13/223: 251023269635
+[2025-10-10 10:22:05] Sem ação: Protocolo 251023269635 com fase FINALIZADA
+[2025-10-10 10:22:05] Processando protocolo 14/223: 251023269642
+[2025-10-10 10:22:09] Sem ação: Protocolo 251023269642 com fase FINALIZADA
+[2025-10-10 10:22:09] Processando protocolo 15/223: 251023269720
+[2025-10-10 10:22:13] Sem ação: Protocolo 251023269720 com fase FINALIZADA
+[2025-10-10 10:22:13] Processando protocolo 16/223: 251023269863
+[2025-10-10 10:22:17] Sem ação: Protocolo 251023269863 com fase FINALIZADA
+[2025-10-10 10:22:17] Processando protocolo 17/223: 251023269950
+[2025-10-10 10:22:21] Sem ação: Protocolo 251023269950 com fase FINALIZADA
+[2025-10-10 10:22:21] Processando protocolo 18/223: 251023270523
+[2025-10-10 10:22:25] Sem ação: Protocolo 251023270523 com fase FINALIZADA
+[2025-10-10 10:22:25] Processando protocolo 19/223: 251023270882
+[2025-10-10 10:22:29] Sem ação: Protocolo 251023270882 com fase FINALIZADA
+[2025-10-10 10:22:29] Processando protocolo 20/223: 251023270979
+[2025-10-10 10:22:33] Sem ação: Protocolo 251023270979 com fase FINALIZADA
+[2025-10-10 10:22:33] Processando protocolo 21/223: 251023270809
+[2025-10-10 10:22:37] Sem ação: Protocolo 251023270809 com fase FINALIZADA
+[2025-10-10 10:22:37] Processando protocolo 22/223: 251023271308
+[2025-10-10 10:22:41] Sem ação: Protocolo 251023271308 com fase FINALIZADA
+[2025-10-10 10:22:41] Processando protocolo 23/223: 251023271400
+[2025-10-10 10:22:45] Sem ação: Protocolo 251023271400 com fase FINALIZADA
+[2025-10-10 10:22:45] Processando protocolo 24/223: 251023272259
+[2025-10-10 10:22:48] Sem ação: Protocolo 251023272259 com fase FINALIZADA
+[2025-10-10 10:22:48] Processando protocolo 25/223: 251023272373
+[2025-10-10 10:22:52] Sem ação: Protocolo 251023272373 com fase FINALIZADA
+[2025-10-10 10:22:52] Processando protocolo 26/223: 251023273769
+[2025-10-10 10:22:59] Nome do cliente encontrado: JOSILENE PINTO DO NASCIMENTO
+[2025-10-10 10:22:59] Script personalizado: @NomeCliente@ -> Josilene
+[2025-10-10 10:23:10] Concluído: Protocolo 251023273769
+[2025-10-10 10:23:10] Processando protocolo 27/223: 251023273663
+[2025-10-10 10:23:17] Nome do cliente encontrado: JENNIFER ROBERTA DOS SANTOS SILVA
+[2025-10-10 10:23:17] Script personalizado: @NomeCliente@ -> Jennifer
+[2025-10-10 10:23:28] Concluído: Protocolo 251023273663
+[2025-10-10 10:23:28] Processando protocolo 28/223: 251023273813
+[2025-10-10 10:23:35] Nome do cliente encontrado: PAULO SERGIO GUILHERME
+[2025-10-10 10:23:35] Script personalizado: @NomeCliente@ -> Paulo
+[2025-10-10 10:23:46] Concluído: Protocolo 251023273813
+[2025-10-10 10:23:46] Processando protocolo 29/223: 251023273865
+[2025-10-10 10:23:53] Nome do cliente encontrado: FRANCISCO MESSIAS SOUSA DE OLIVEIRA
+[2025-10-10 10:23:53] Script personalizado: @NomeCliente@ -> Francisco
+[2025-10-10 10:24:05] Concluído: Protocolo 251023273865
+[2025-10-10 10:24:05] Processando protocolo 30/223: 251023273886
+[2025-10-10 10:24:11] Nome do cliente encontrado: SILVANA MARIA MARTINS
+[2025-10-10 10:24:11] Script personalizado: @NomeCliente@ -> Silvana
+[2025-10-10 10:24:23] Concluído: Protocolo 251023273886
+[2025-10-10 10:24:23] Processando protocolo 31/223: 251023274021
+[2025-10-10 10:24:29] Nome do cliente encontrado: MAGDA INEZ DA SILVA
+[2025-10-10 10:24:29] Script personalizado: @NomeCliente@ -> Magda
+[2025-10-10 10:24:40] Concluído: Protocolo 251023274021
+[2025-10-10 10:24:40] Processando protocolo 32/223: 251023274093
+[2025-10-10 10:24:46] Nome do cliente encontrado: MAHMOUD MOHAMMAD HUSSEIN MUSA
+[2025-10-10 10:24:46] Script personalizado: @NomeCliente@ -> Mahmoud
+[2025-10-10 10:24:57] Concluído: Protocolo 251023274093
+[2025-10-10 10:24:58] Processando protocolo 33/223: 251023274096
+[2025-10-10 10:25:04] Nome do cliente encontrado: GLORINHA APARECIDA PFLANZER
+[2025-10-10 10:25:04] Script personalizado: @NomeCliente@ -> Glorinha
+[2025-10-10 10:25:15] Concluído: Protocolo 251023274096
+[2025-10-10 10:25:15] Processando protocolo 34/223: 251023274127
+[2025-10-10 10:25:21] Nome do cliente encontrado: LUCAS CASSIANO CANTO BOLORINI
+[2025-10-10 10:25:21] Script personalizado: @NomeCliente@ -> Lucas
+[2025-10-10 10:25:32] Concluído: Protocolo 251023274127
+[2025-10-10 10:25:32] Processando protocolo 35/223: 251023274130
+[2025-10-10 10:25:39] Nome do cliente encontrado: RUAN DELGADO GOMES
+[2025-10-10 10:25:39] Script personalizado: @NomeCliente@ -> Ruan
+[2025-10-10 10:25:50] Concluído: Protocolo 251023274130
+[2025-10-10 10:25:50] Processando protocolo 36/223: 251023274143
+[2025-10-10 10:25:56] Nome do cliente encontrado: CRISTIANE TOKATLIAN
+[2025-10-10 10:25:56] Script personalizado: @NomeCliente@ -> Cristiane
+[2025-10-10 10:26:07] Concluído: Protocolo 251023274143
+[2025-10-10 10:26:07] Processando protocolo 37/223: 251023274104
+[2025-10-10 10:26:11] Sem ação: Protocolo 251023274104 com fase FINALIZADA
+[2025-10-10 10:26:11] Processando protocolo 38/223: 251023274224
+[2025-10-10 10:26:18] Nome do cliente encontrado: CRISNAIA DA SILVA SOBRAL
+[2025-10-10 10:26:18] Script personalizado: @NomeCliente@ -> Crisnaia
+[2025-10-10 10:26:30] Concluído: Protocolo 251023274224
+[2025-10-10 10:26:30] Processando protocolo 39/223: 251023274249
+[2025-10-10 10:26:37] Nome do cliente encontrado: PAULA DA SILVA TEIXEIRA
+[2025-10-10 10:26:37] Script personalizado: @NomeCliente@ -> Paula
+[2025-10-10 10:26:49] Concluído: Protocolo 251023274249
+[2025-10-10 10:26:49] Processando protocolo 40/223: 251023274305
+[2025-10-10 10:26:55] Nome do cliente encontrado: ANA CLAUDIA OLIVEIRA DA CUNHA
+[2025-10-10 10:26:55] Script personalizado: @NomeCliente@ -> Ana
+[2025-10-10 10:27:07] Concluído: Protocolo 251023274305
+[2025-10-10 10:27:07] Processando protocolo 41/223: 251023274009
+[2025-10-10 10:27:14] Nome do cliente encontrado: ROGERIO PERCIVALE
+[2025-10-10 10:27:14] Script personalizado: @NomeCliente@ -> Rogerio
+[2025-10-10 10:27:26] Concluído: Protocolo 251023274009
+[2025-10-10 10:27:26] Processando protocolo 42/223: 251023274364
+[2025-10-10 10:27:33] Nome do cliente encontrado: FABIANA RODRIGUES
+[2025-10-10 10:27:33] Script personalizado: @NomeCliente@ -> Fabiana
+[2025-10-10 10:27:44] Concluído: Protocolo 251023274364
+[2025-10-10 10:27:44] Processando protocolo 43/223: 251023274377
+[2025-10-10 10:27:52] Nome do cliente encontrado: LUIZA MASCARELLO BERNARDI
+[2025-10-10 10:27:52] Script personalizado: @NomeCliente@ -> Luiza
+[2025-10-10 10:28:04] Concluído: Protocolo 251023274377
+[2025-10-10 10:28:04] Processando protocolo 44/223: 251023274379
+[2025-10-10 10:28:10] Nome do cliente encontrado: RAFAELA DOS SANTOS CERQUEIRA
+[2025-10-10 10:28:10] Script personalizado: @NomeCliente@ -> Rafaela
+[2025-10-10 10:28:22] Concluído: Protocolo 251023274379
+[2025-10-10 10:28:22] Processando protocolo 45/223: 251023274436
+[2025-10-10 10:28:26] Sem ação: Protocolo 251023274436 com fase FINALIZADA
+[2025-10-10 10:28:26] Processando protocolo 46/223: 251023274344
+[2025-10-10 10:28:32] Nome do cliente encontrado: JOSE CICERO DA SILVA
+[2025-10-10 10:28:32] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 10:28:44] Concluído: Protocolo 251023274344
+[2025-10-10 10:28:44] Processando protocolo 47/223: 251023274502
+[2025-10-10 10:28:50] Nome do cliente encontrado: NAIARA PAULA SANTOS GUIMARAES
+[2025-10-10 10:28:50] Script personalizado: @NomeCliente@ -> Naiara
+[2025-10-10 10:29:03] Concluído: Protocolo 251023274502
+[2025-10-10 10:29:03] Processando protocolo 48/223: 251023274480
+[2025-10-10 10:29:10] Nome do cliente encontrado: AMANDA LETICIA DE SOUZA FELIX
+[2025-10-10 10:29:10] Script personalizado: @NomeCliente@ -> Amanda
+[2025-10-10 10:29:22] Concluído: Protocolo 251023274480
+[2025-10-10 10:29:22] Processando protocolo 49/223: 251023274482
+[2025-10-10 10:29:28] Nome do cliente encontrado: JOSE LUIZ SOARES DE MELO
+[2025-10-10 10:29:28] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 10:29:40] Concluído: Protocolo 251023274482
+[2025-10-10 10:29:40] Processando protocolo 50/223: 251023274485
+[2025-10-10 10:29:44] Sem ação: Protocolo 251023274485 com fase FINALIZADA
+[2025-10-10 10:29:44] Processando protocolo 51/223: 251023274546
+[2025-10-10 10:29:50] Nome do cliente encontrado: JOYCE BIBIANO GOUVEA
+[2025-10-10 10:29:50] Script personalizado: @NomeCliente@ -> Joyce
+[2025-10-10 10:30:04] Concluído: Protocolo 251023274546
+[2025-10-10 10:30:04] Processando protocolo 52/223: 251023274665
+[2025-10-10 10:30:11] Nome do cliente encontrado: LANNY KARYNNE LEITE LEAL
+[2025-10-10 10:30:11] Script personalizado: @NomeCliente@ -> Lanny
+[2025-10-10 10:30:23] Concluído: Protocolo 251023274665
+[2025-10-10 10:30:23] Processando protocolo 53/223: 251023274736
+[2025-10-10 10:30:29] Nome do cliente encontrado: ODETE TEREZINHA FANTE
+[2025-10-10 10:30:29] Script personalizado: @NomeCliente@ -> Odete
+[2025-10-10 10:30:40] Concluído: Protocolo 251023274736
+[2025-10-10 10:30:40] Processando protocolo 54/223: 251023274738
+[2025-10-10 10:30:46] Nome do cliente encontrado: RONALDO COSME OLIVEIRA LOURO
+[2025-10-10 10:30:46] Script personalizado: @NomeCliente@ -> Ronaldo
+[2025-10-10 10:30:58] Concluído: Protocolo 251023274738
+[2025-10-10 10:30:58] Processando protocolo 55/223: 251023274741
+[2025-10-10 10:31:04] Nome do cliente encontrado: EDMILA RODRIGUES CARDOSO
+[2025-10-10 10:31:04] Script personalizado: @NomeCliente@ -> Edmila
+[2025-10-10 10:31:15] Concluído: Protocolo 251023274741
+[2025-10-10 10:31:15] Processando protocolo 56/223: 251023274777
+[2025-10-10 10:31:22] Nome do cliente encontrado: VINICIUS MOLINA ROMANO
+[2025-10-10 10:31:22] Script personalizado: @NomeCliente@ -> Vinicius
+[2025-10-10 10:31:33] Concluído: Protocolo 251023274777
+[2025-10-10 10:31:33] Processando protocolo 57/223: 251023274780
+[2025-10-10 10:31:40] Nome do cliente encontrado: EDINALDO ARAUJO DA PAZ
+[2025-10-10 10:31:40] Script personalizado: @NomeCliente@ -> Edinaldo
+[2025-10-10 10:31:52] Concluído: Protocolo 251023274780
+[2025-10-10 10:31:52] Processando protocolo 58/223: 251023274841
+[2025-10-10 10:31:58] Nome do cliente encontrado: DOGIVAL DE OLIVEIRA COSTA JUNIOR
+[2025-10-10 10:31:58] Script personalizado: @NomeCliente@ -> Dogival
+[2025-10-10 10:32:10] Concluído: Protocolo 251023274841
+[2025-10-10 10:32:10] Processando protocolo 59/223: 251023274855
+[2025-10-10 10:32:15] Sem ação: Protocolo 251023274855 com fase FINALIZADA
+[2025-10-10 10:32:15] Processando protocolo 60/223: 251023274817
+[2025-10-10 10:32:22] Nome do cliente encontrado: R DOS SANTOS SILVA PEREIRA CONFECCOES E
+[2025-10-10 10:32:22] Script personalizado: @NomeCliente@ -> R
+[2025-10-10 10:32:35] Concluído: Protocolo 251023274817
+[2025-10-10 10:32:35] Processando protocolo 61/223: 251023274861
+[2025-10-10 10:32:39] Sem ação: Protocolo 251023274861 com fase FINALIZADA
+[2025-10-10 10:32:39] Processando protocolo 62/223: 251023274864
+[2025-10-10 10:32:43] Sem ação: Protocolo 251023274864 com fase FINALIZADA
+[2025-10-10 10:32:43] Processando protocolo 63/223: 251023274924
+[2025-10-10 10:32:49] Nome do cliente encontrado: ADERLANDO PEREIRA DAVID
+[2025-10-10 10:32:49] Script personalizado: @NomeCliente@ -> Aderlando
+[2025-10-10 10:33:02] Concluído: Protocolo 251023274924
+[2025-10-10 10:33:02] Processando protocolo 64/223: 251023274934
+[2025-10-10 10:33:08] Nome do cliente encontrado: M ALVES OLIVEIRA SERVICOS CONTABEIS
+[2025-10-10 10:33:08] Script personalizado: @NomeCliente@ -> M
+[2025-10-10 10:33:21] Concluído: Protocolo 251023274934
+[2025-10-10 10:33:21] Processando protocolo 65/223: 251023274972
+[2025-10-10 10:33:27] Nome do cliente encontrado: DAMIAO CHAVES SILVA
+[2025-10-10 10:33:27] Script personalizado: @NomeCliente@ -> Damiao
+[2025-10-10 10:33:39] Concluído: Protocolo 251023274972
+[2025-10-10 10:33:39] Processando protocolo 66/223: 251023274937
+[2025-10-10 10:33:45] Nome do cliente encontrado: DAMIAO CHAVES SILVA
+[2025-10-10 10:33:45] Script personalizado: @NomeCliente@ -> Damiao
+[2025-10-10 10:33:57] Concluído: Protocolo 251023274937
+[2025-10-10 10:33:57] Processando protocolo 67/223: 251023274976
+[2025-10-10 10:34:04] Nome do cliente encontrado: JANETE ALVES FERREIRA DA SILVA
+[2025-10-10 10:34:04] Script personalizado: @NomeCliente@ -> Janete
+[2025-10-10 10:34:15] Concluído: Protocolo 251023274976
+[2025-10-10 10:34:15] Processando protocolo 68/223: 251023274982
+[2025-10-10 10:34:21] Nome do cliente encontrado: AMILTO SCHULTZ MARTENDAL
+[2025-10-10 10:34:21] Script personalizado: @NomeCliente@ -> Amilto
+[2025-10-10 10:34:33] Concluído: Protocolo 251023274982
+[2025-10-10 10:34:33] Processando protocolo 69/223: 251023274943
+[2025-10-10 10:34:39] Nome do cliente encontrado: LARISSA FERREIRA DA COSTA LAGE
+[2025-10-10 10:34:39] Script personalizado: @NomeCliente@ -> Larissa
+[2025-10-10 10:34:51] Concluído: Protocolo 251023274943
+[2025-10-10 10:34:51] Processando protocolo 70/223: 251023275011
+[2025-10-10 10:34:57] Nome do cliente encontrado: ALVAIR DOS SANTOS LAGO ABREU
+[2025-10-10 10:34:57] Script personalizado: @NomeCliente@ -> Alvair
+[2025-10-10 10:35:09] Concluído: Protocolo 251023275011
+[2025-10-10 10:35:09] Processando protocolo 71/223: 251023274949
+[2025-10-10 10:35:15] Nome do cliente encontrado: FLAVIA QUEIROZ DA CRUZ
+[2025-10-10 10:35:15] Script personalizado: @NomeCliente@ -> Flavia
+[2025-10-10 10:35:28] Concluído: Protocolo 251023274949
+[2025-10-10 10:35:28] Processando protocolo 72/223: 251023275028
+[2025-10-10 10:35:34] Nome do cliente encontrado: MAGNO DE SOUZA RAMOS
+[2025-10-10 10:35:34] Script personalizado: @NomeCliente@ -> Magno
+[2025-10-10 10:35:48] Concluído: Protocolo 251023275028
+[2025-10-10 10:35:48] Processando protocolo 73/223: 251023275029
+[2025-10-10 10:35:50] Erro ao processar protocolo 251023275029: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div[2]/div[1]/form/div[1]/div[1]/div[3]/div/input"}
+  (Session info: chrome=141.0.7390.67); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xd8fea3+66515]
+	GetHandleVerifier [0x0xd8fee4+66580]
+	(No symbol) [0x0xb7dc48]
+	(No symbol) [0x0xbc8704]
+	(No symbol) [0x0xbc8aab]
+	(No symbol) [0x0xc0f482]
+	(No symbol) [0x0xbeb214]
+	(No symbol) [0x0xc0cba7]
+	(No symbol) [0x0xbeafc6]
+	(No symbol) [0x0xbbc2ca]
+	(No symbol) [0x0xbbd154]
+	GetHandleVerifier [0x0xfe73d3+2521347]
+	GetHandleVerifier [0x0xfe2353+2500739]
+	GetHandleVerifier [0x0xdb7cf4+229924]
+	GetHandleVerifier [0x0xda8258+165768]
+	GetHandleVerifier [0x0xdaed0d+193085]
+	GetHandleVerifier [0x0xd981b8+100072]
+	GetHandleVerifier [0x0xd98350+100480]
+	GetHandleVerifier [0x0xd8260a+11066]
+	BaseThreadInitThunk [0x0x75cb7ba9+25]
+	RtlInitializeExceptionChain [0x0x7732c3ab+107]
+	RtlClearBits [0x0x7732c32f+191]
+
+[2025-10-10 10:35:50] Processando protocolo 74/223: 251023275077
+[2025-10-10 10:35:57] Nome do cliente encontrado: CAROLINE DA SILVA MARTINS
+[2025-10-10 10:35:57] Script personalizado: @NomeCliente@ -> Caroline
+[2025-10-10 10:36:09] Concluído: Protocolo 251023275077
+[2025-10-10 10:36:09] Processando protocolo 75/223: 251023275099
+[2025-10-10 10:36:15] Nome do cliente encontrado: FRANCISCO DIAS DA SILVA
+[2025-10-10 10:36:15] Script personalizado: @NomeCliente@ -> Francisco
+[2025-10-10 10:36:28] Concluído: Protocolo 251023275099
+[2025-10-10 10:36:28] Processando protocolo 76/223: 251023275144
+[2025-10-10 10:36:34] Nome do cliente encontrado: DAIANE CARLA BORGES MARTINS
+[2025-10-10 10:36:34] Script personalizado: @NomeCliente@ -> Daiane
+[2025-10-10 10:36:46] Concluído: Protocolo 251023275144
+[2025-10-10 10:36:46] Processando protocolo 77/223: 251023275146
+[2025-10-10 10:36:52] Nome do cliente encontrado: JOSE JERONIMO DA COSTA
+[2025-10-10 10:36:52] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 10:37:03] Concluído: Protocolo 251023275146
+[2025-10-10 10:37:03] Processando protocolo 78/223: 251023275307
+[2025-10-10 10:37:10] Nome do cliente encontrado: MARITZA MELGAR ANEZ MOURA
+[2025-10-10 10:37:10] Script personalizado: @NomeCliente@ -> Maritza
+[2025-10-10 10:37:21] Concluído: Protocolo 251023275307
+[2025-10-10 10:37:21] Processando protocolo 79/223: 251023275327
+[2025-10-10 10:37:28] Nome do cliente encontrado: FREDERICO LAUTON GUIMARAES
+[2025-10-10 10:37:28] Script personalizado: @NomeCliente@ -> Frederico
+[2025-10-10 10:37:41] Concluído: Protocolo 251023275327
+[2025-10-10 10:37:41] Processando protocolo 80/223: 251023275361
+[2025-10-10 10:37:47] Nome do cliente encontrado: EDISON LOYOLA MARTINS
+[2025-10-10 10:37:47] Script personalizado: @NomeCliente@ -> Edison
+[2025-10-10 10:37:58] Concluído: Protocolo 251023275361
+[2025-10-10 10:37:58] Processando protocolo 81/223: 251023275289
+[2025-10-10 10:38:05] Nome do cliente encontrado: FERNANDA PELONHA DE MENESES
+[2025-10-10 10:38:05] Script personalizado: @NomeCliente@ -> Fernanda
+[2025-10-10 10:38:18] Concluído: Protocolo 251023275289
+[2025-10-10 10:38:18] Processando protocolo 82/223: 251023275291
+[2025-10-10 10:38:25] Nome do cliente encontrado: ALEX TAVARES MEDEIROS ME
+[2025-10-10 10:38:25] Script personalizado: @NomeCliente@ -> Alex
+[2025-10-10 10:38:37] Concluído: Protocolo 251023275291
+[2025-10-10 10:38:37] Processando protocolo 83/223: 251023275462
+[2025-10-10 10:38:43] Nome do cliente encontrado: MARIA CASSIMIRO GUIMARAES DE OLIVEIRA
+[2025-10-10 10:38:43] Script personalizado: @NomeCliente@ -> Maria
+[2025-10-10 10:38:55] Concluído: Protocolo 251023275462
+[2025-10-10 10:38:55] Processando protocolo 84/223: 251023275480
+[2025-10-10 10:39:02] Nome do cliente encontrado: GEORGE THEO ANDRADE LIMA DA COSTA
+[2025-10-10 10:39:02] Script personalizado: @NomeCliente@ -> George
+[2025-10-10 10:39:14] Concluído: Protocolo 251023275480
+[2025-10-10 10:39:14] Processando protocolo 85/223: 251023275467
+[2025-10-10 10:39:20] Nome do cliente encontrado: GABRIEL EVANGELISTA SOUZA DAHROUG
+[2025-10-10 10:39:20] Script personalizado: @NomeCliente@ -> Gabriel
+[2025-10-10 10:39:32] Concluído: Protocolo 251023275467
+[2025-10-10 10:39:32] Processando protocolo 86/223: 251023275418
+[2025-10-10 10:39:38] Nome do cliente encontrado: MATHEUS MARQUES FARIA
+[2025-10-10 10:39:38] Script personalizado: @NomeCliente@ -> Matheus
+[2025-10-10 10:39:50] Concluído: Protocolo 251023275418
+[2025-10-10 10:39:50] Processando protocolo 87/223: 251023275532
+[2025-10-10 10:39:56] Nome do cliente encontrado: TALES BARRETO DE JESUS BRITO
+[2025-10-10 10:39:56] Script personalizado: @NomeCliente@ -> Tales
+[2025-10-10 10:40:07] Concluído: Protocolo 251023275532
+[2025-10-10 10:40:07] Processando protocolo 88/223: 251023275637
+[2025-10-10 10:40:13] Nome do cliente encontrado: THIAGO BERNARDINELLI MANO
+[2025-10-10 10:40:13] Script personalizado: @NomeCliente@ -> Thiago
+[2025-10-10 10:40:25] Concluído: Protocolo 251023275637
+[2025-10-10 10:40:25] Processando protocolo 89/223: 251023275656
+[2025-10-10 10:40:32] Nome do cliente encontrado: JERONTONINA DE FATIMA ALMEIDA
+[2025-10-10 10:40:32] Script personalizado: @NomeCliente@ -> Jerontonina
+[2025-10-10 10:40:46] Concluído: Protocolo 251023275656
+[2025-10-10 10:40:46] Processando protocolo 90/223: 251023275619
+[2025-10-10 10:40:52] Nome do cliente encontrado: REBECA FEITOSA NASCIMENTO OLIVEIRA
+[2025-10-10 10:40:52] Script personalizado: @NomeCliente@ -> Rebeca
+[2025-10-10 10:41:03] Concluído: Protocolo 251023275619
+[2025-10-10 10:41:03] Processando protocolo 91/223: 251023275731
+[2025-10-10 10:41:10] Nome do cliente encontrado: HIRAN NUNES
+[2025-10-10 10:41:10] Script personalizado: @NomeCliente@ -> Hiran
+[2025-10-10 10:41:23] Concluído: Protocolo 251023275731
+[2025-10-10 10:41:23] Processando protocolo 92/223: 251023275744
+[2025-10-10 10:41:29] Nome do cliente encontrado: MILENA COSTA OLIVEIRA
+[2025-10-10 10:41:29] Script personalizado: @NomeCliente@ -> Milena
+[2025-10-10 10:41:41] Concluído: Protocolo 251023275744
+[2025-10-10 10:41:41] Processando protocolo 93/223: 251023275860
+[2025-10-10 10:41:48] Nome do cliente encontrado: JULIO MOREIRA DOS SANTOS FILHO
+[2025-10-10 10:41:48] Script personalizado: @NomeCliente@ -> Julio
+[2025-10-10 10:42:00] Concluído: Protocolo 251023275860
+[2025-10-10 10:42:00] Processando protocolo 94/223: 251023275993
+[2025-10-10 10:42:07] Nome do cliente encontrado: LINDOMAR JESUS SANTOS
+[2025-10-10 10:42:07] Script personalizado: @NomeCliente@ -> Lindomar
+[2025-10-10 10:42:18] Concluído: Protocolo 251023275993
+[2025-10-10 10:42:19] Processando protocolo 95/223: 251023275943
+[2025-10-10 10:42:26] Nome do cliente encontrado: FELLIPE SILVA ALBUQUERQUE
+[2025-10-10 10:42:26] Script personalizado: @NomeCliente@ -> Fellipe
+[2025-10-10 10:42:38] Concluído: Protocolo 251023275943
+[2025-10-10 10:42:39] Processando protocolo 96/223: 251023275989
+[2025-10-10 10:42:45] Nome do cliente encontrado: FERNANDO CABRAL GOMES
+[2025-10-10 10:42:45] Script personalizado: @NomeCliente@ -> Fernando
+[2025-10-10 10:42:58] Concluído: Protocolo 251023275989
+[2025-10-10 10:42:58] Processando protocolo 97/223: 251023276026
+[2025-10-10 10:43:04] Nome do cliente encontrado: CLICIA MARIANA SANTANA LINS
+[2025-10-10 10:43:04] Script personalizado: @NomeCliente@ -> Clicia
+[2025-10-10 10:43:18] Concluído: Protocolo 251023276026
+[2025-10-10 10:43:18] Processando protocolo 98/223: 251023276031
+[2025-10-10 10:43:24] Nome do cliente encontrado: LUIZ CARLOS DE OLIVEIRA
+[2025-10-10 10:43:24] Script personalizado: @NomeCliente@ -> Luiz
+[2025-10-10 10:43:37] Concluído: Protocolo 251023276031
+[2025-10-10 10:43:37] Processando protocolo 99/223: 251023276034
+[2025-10-10 10:43:43] Nome do cliente encontrado: BEATRIZ NOGUEIRA RACCANELLO
+[2025-10-10 10:43:43] Script personalizado: @NomeCliente@ -> Beatriz
+[2025-10-10 10:43:55] Concluído: Protocolo 251023276034
+[2025-10-10 10:43:55] Processando protocolo 100/223: 251023276065
+[2025-10-10 10:44:02] Nome do cliente encontrado: LEONEL ALVES DE MELO
+[2025-10-10 10:44:02] Script personalizado: @NomeCliente@ -> Leonel
+[2025-10-10 10:44:14] Concluído: Protocolo 251023276065
+[2025-10-10 10:44:14] Processando protocolo 101/223: 251023276006
+[2025-10-10 10:44:20] Nome do cliente encontrado: GEOVANE APARECIDO GOMES DA SILVA
+[2025-10-10 10:44:20] Script personalizado: @NomeCliente@ -> Geovane
+[2025-10-10 10:44:32] Concluído: Protocolo 251023276006
+[2025-10-10 10:44:32] Processando protocolo 102/223: 251023276172
+[2025-10-10 10:44:39] Nome do cliente encontrado: EMANUEL MESSIAS DE OLIVEIRA LIBORIO
+[2025-10-10 10:44:39] Script personalizado: @NomeCliente@ -> Emanuel
+[2025-10-10 10:44:55] Concluído: Protocolo 251023276172
+[2025-10-10 10:44:55] Processando protocolo 103/223: 251023276179
+[2025-10-10 10:45:00] Sem ação: Protocolo 251023276179 com fase FINALIZADA
+[2025-10-10 10:45:00] Processando protocolo 104/223: 251023276192
+[2025-10-10 10:45:06] Nome do cliente encontrado: EDUARDO DE CAMARGO
+[2025-10-10 10:45:06] Script personalizado: @NomeCliente@ -> Eduardo
+[2025-10-10 10:45:18] Concluído: Protocolo 251023276192
+[2025-10-10 10:45:18] Processando protocolo 105/223: 251023276214
+[2025-10-10 10:45:24] Nome do cliente encontrado: JOSE ALVES DE CARVALHO NETO
+[2025-10-10 10:45:24] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 10:45:36] Concluído: Protocolo 251023276214
+[2025-10-10 10:45:36] Processando protocolo 106/223: 251023276131
+[2025-10-10 10:45:40] Sem ação: Protocolo 251023276131 com fase FINALIZADA
+[2025-10-10 10:45:40] Processando protocolo 107/223: 251023276252
+[2025-10-10 10:45:44] Sem ação: Protocolo 251023276252 com fase FINALIZADA
+[2025-10-10 10:45:44] Processando protocolo 108/223: 251023276202
+[2025-10-10 10:45:51] Nome do cliente encontrado: RODRIGO AUGUSTO ARAUJO DE ALMEIDA
+[2025-10-10 10:45:51] Script personalizado: @NomeCliente@ -> Rodrigo
+[2025-10-10 10:46:03] Concluído: Protocolo 251023276202
+[2025-10-10 10:46:03] Processando protocolo 109/223: 251023276297
+[2025-10-10 10:46:10] Nome do cliente encontrado: FRANCISCA ALVES RODRIGUES DE FRANCA
+[2025-10-10 10:46:10] Script personalizado: @NomeCliente@ -> Francisca
+[2025-10-10 10:46:22] Concluído: Protocolo 251023276297
+[2025-10-10 10:46:22] Processando protocolo 110/223: 251023276282
+[2025-10-10 10:46:28] Nome do cliente encontrado: CLEIDE ALVES DE SOUZA
+[2025-10-10 10:46:28] Script personalizado: @NomeCliente@ -> Cleide
+[2025-10-10 10:46:40] Concluído: Protocolo 251023276282
+[2025-10-10 10:46:40] Processando protocolo 111/223: 251023276361
+[2025-10-10 10:46:46] Nome do cliente encontrado: ANTONIA DANIELA GOMES DA CRUZ
+[2025-10-10 10:46:46] Script personalizado: @NomeCliente@ -> Antonia
+[2025-10-10 10:46:59] Concluído: Protocolo 251023276361
+[2025-10-10 10:47:00] Processando protocolo 112/223: 251023276398
+[2025-10-10 10:47:06] Nome do cliente encontrado: CARLOS AUGUSTO TAVARES DE SANTANA
+[2025-10-10 10:47:06] Script personalizado: @NomeCliente@ -> Carlos
+[2025-10-10 10:47:18] Concluído: Protocolo 251023276398
+[2025-10-10 10:47:18] Processando protocolo 113/223: 251023276513
+[2025-10-10 10:47:24] Nome do cliente encontrado: ADILSON NOGUEIRA
+[2025-10-10 10:47:24] Script personalizado: @NomeCliente@ -> Adilson
+[2025-10-10 10:47:36] Concluído: Protocolo 251023276513
+[2025-10-10 10:47:36] Processando protocolo 114/223: 251023276504
+[2025-10-10 10:47:43] Nome do cliente encontrado: DIONE DOS SANTOS NEVES
+[2025-10-10 10:47:43] Script personalizado: @NomeCliente@ -> Dione
+[2025-10-10 10:47:56] Concluído: Protocolo 251023276504
+[2025-10-10 10:47:56] Processando protocolo 115/223: 251023276599
+[2025-10-10 10:48:03] Nome do cliente encontrado: MURILO FELIPE DE SANTANA SOUZA
+[2025-10-10 10:48:03] Script personalizado: @NomeCliente@ -> Murilo
+[2025-10-10 10:48:17] Concluído: Protocolo 251023276599
+[2025-10-10 10:48:17] Processando protocolo 116/223: 251023276600
+[2025-10-10 10:48:23] Nome do cliente encontrado: MARCOS ANTONIO DA CONCEICAO
+[2025-10-10 10:48:23] Script personalizado: @NomeCliente@ -> Marcos
+[2025-10-10 10:48:35] Concluído: Protocolo 251023276600
+[2025-10-10 10:48:35] Processando protocolo 117/223: 251023276620
+[2025-10-10 10:48:42] Nome do cliente encontrado: DAIANE THEINL DA SILVA DE MARIA
+[2025-10-10 10:48:42] Script personalizado: @NomeCliente@ -> Daiane
+[2025-10-10 10:48:56] Concluído: Protocolo 251023276620
+[2025-10-10 10:48:56] Processando protocolo 118/223: 251023276631
+[2025-10-10 10:49:02] Nome do cliente encontrado: BRENDA HINGRID BRAGA FERREIRA
+[2025-10-10 10:49:02] Script personalizado: @NomeCliente@ -> Brenda
+[2025-10-10 10:49:16] Concluído: Protocolo 251023276631
+[2025-10-10 10:49:16] Processando protocolo 119/223: 251023276545
+[2025-10-10 10:49:19] Erro ao processar protocolo 251023276545: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div[2]/div[1]/form/div[1]/div[1]/div[3]/div/input"}
+  (Session info: chrome=141.0.7390.67); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xd8fea3+66515]
+	GetHandleVerifier [0x0xd8fee4+66580]
+	(No symbol) [0x0xb7dc48]
+	(No symbol) [0x0xbc8704]
+	(No symbol) [0x0xbc8aab]
+	(No symbol) [0x0xc0f482]
+	(No symbol) [0x0xbeb214]
+	(No symbol) [0x0xc0cba7]
+	(No symbol) [0x0xbeafc6]
+	(No symbol) [0x0xbbc2ca]
+	(No symbol) [0x0xbbd154]
+	GetHandleVerifier [0x0xfe73d3+2521347]
+	GetHandleVerifier [0x0xfe2353+2500739]
+	GetHandleVerifier [0x0xdb7cf4+229924]
+	GetHandleVerifier [0x0xda8258+165768]
+	GetHandleVerifier [0x0xdaed0d+193085]
+	GetHandleVerifier [0x0xd981b8+100072]
+	GetHandleVerifier [0x0xd98350+100480]
+	GetHandleVerifier [0x0xd8260a+11066]
+	BaseThreadInitThunk [0x0x75cb7ba9+25]
+	RtlInitializeExceptionChain [0x0x7732c3ab+107]
+	RtlClearBits [0x0x7732c32f+191]
+
+[2025-10-10 10:49:19] Processando protocolo 120/223: 251023276732
+[2025-10-10 10:49:26] Nome do cliente encontrado: GILSON LUIZ DA SILVA
+[2025-10-10 10:49:26] Script personalizado: @NomeCliente@ -> Gilson
+[2025-10-10 10:49:39] Concluído: Protocolo 251023276732
+[2025-10-10 10:49:39] Processando protocolo 121/223: 251023276714
+[2025-10-10 10:49:45] Nome do cliente encontrado: PAULO HENRIQUE NUNES DA SILVA
+[2025-10-10 10:49:45] Script personalizado: @NomeCliente@ -> Paulo
+[2025-10-10 10:49:58] Concluído: Protocolo 251023276714
+[2025-10-10 10:49:58] Processando protocolo 122/223: 251023276730
+[2025-10-10 10:50:04] Nome do cliente encontrado: LUZENILDA MOREIRA DA SILVA
+[2025-10-10 10:50:04] Script personalizado: @NomeCliente@ -> Luzenilda
+[2025-10-10 10:50:17] Concluído: Protocolo 251023276730
+[2025-10-10 10:50:17] Processando protocolo 123/223: 251023276787
+[2025-10-10 10:50:23] Nome do cliente encontrado: ANDRESSA MARIA COUTINHO
+[2025-10-10 10:50:23] Script personalizado: @NomeCliente@ -> Andressa
+[2025-10-10 10:50:36] Concluído: Protocolo 251023276787
+[2025-10-10 10:50:36] Processando protocolo 124/223: 251023276831
+[2025-10-10 10:50:43] Nome do cliente encontrado: DALVA SANTOS SOUZA
+[2025-10-10 10:50:43] Script personalizado: @NomeCliente@ -> Dalva
+[2025-10-10 10:50:55] Concluído: Protocolo 251023276831
+[2025-10-10 10:50:55] Processando protocolo 125/223: 251023276805
+[2025-10-10 10:51:03] Nome do cliente encontrado: ADRIANA KASSIA LIMA DA SILVA
+[2025-10-10 10:51:03] Script personalizado: @NomeCliente@ -> Adriana
+[2025-10-10 10:51:16] Concluído: Protocolo 251023276805
+[2025-10-10 10:51:16] Processando protocolo 126/223: 251023276973
+[2025-10-10 10:51:23] Nome do cliente encontrado: ROBERTO MARCIO PEREIRA DA SILVA
+[2025-10-10 10:51:23] Script personalizado: @NomeCliente@ -> Roberto
+[2025-10-10 10:51:36] Concluído: Protocolo 251023276973
+[2025-10-10 10:51:36] Processando protocolo 127/223: 251023276960
+[2025-10-10 10:51:42] Nome do cliente encontrado: MAYARA VAZ CARDEAL LIMA
+[2025-10-10 10:51:42] Script personalizado: @NomeCliente@ -> Mayara
+[2025-10-10 10:51:54] Concluído: Protocolo 251023276960
+[2025-10-10 10:51:54] Processando protocolo 128/223: 251023277015
+[2025-10-10 10:52:02] Nome do cliente encontrado: JULIANA ROSE OLIVEIRA MOREIRA
+[2025-10-10 10:52:02] Script personalizado: @NomeCliente@ -> Juliana
+[2025-10-10 10:52:16] Concluído: Protocolo 251023277015
+[2025-10-10 10:52:16] Processando protocolo 129/223: 251023277062
+[2025-10-10 10:52:23] Nome do cliente encontrado: MARIANA LIMA DA SILVA
+[2025-10-10 10:52:23] Script personalizado: @NomeCliente@ -> Mariana
+[2025-10-10 10:52:35] Concluído: Protocolo 251023277062
+[2025-10-10 10:52:35] Processando protocolo 130/223: 251023277076
+[2025-10-10 10:52:41] Nome do cliente encontrado: PEDRO GOMES MACHADO
+[2025-10-10 10:52:41] Script personalizado: @NomeCliente@ -> Pedro
+[2025-10-10 10:52:53] Concluído: Protocolo 251023277076
+[2025-10-10 10:52:53] Processando protocolo 131/223: 251023277078
+[2025-10-10 10:53:01] Nome do cliente encontrado: JOAREZ FERREIRA SILVA
+[2025-10-10 10:53:01] Script personalizado: @NomeCliente@ -> Joarez
+[2025-10-10 10:53:14] Concluído: Protocolo 251023277078
+[2025-10-10 10:53:14] Processando protocolo 132/223: 251023277086
+[2025-10-10 10:53:21] Nome do cliente encontrado: TELMA ELIANE GARCIA
+[2025-10-10 10:53:21] Script personalizado: @NomeCliente@ -> Telma
+[2025-10-10 10:53:34] Concluído: Protocolo 251023277086
+[2025-10-10 10:53:34] Processando protocolo 133/223: 251023277114
+[2025-10-10 10:53:41] Nome do cliente encontrado: SARAH CUNHA ARAUJO
+[2025-10-10 10:53:41] Script personalizado: @NomeCliente@ -> Sarah
+[2025-10-10 10:53:55] Concluído: Protocolo 251023277114
+[2025-10-10 10:53:55] Processando protocolo 134/223: 251023277161
+[2025-10-10 10:54:01] Nome do cliente encontrado: FRANCISCO CHAGAS DA SILVA
+[2025-10-10 10:54:01] Script personalizado: @NomeCliente@ -> Francisco
+[2025-10-10 10:54:13] Concluído: Protocolo 251023277161
+[2025-10-10 10:54:13] Processando protocolo 135/223: 251023276950
+[2025-10-10 10:54:20] Nome do cliente encontrado: JOSIMAR DA SILVA FERREIRA
+[2025-10-10 10:54:20] Script personalizado: @NomeCliente@ -> Josimar
+[2025-10-10 10:54:31] Concluído: Protocolo 251023276950
+[2025-10-10 10:54:31] Processando protocolo 136/223: 251023277192
+[2025-10-10 10:54:37] Nome do cliente encontrado: DANIELLA ALVES FRANCO DIAS MARCHAND
+[2025-10-10 10:54:37] Script personalizado: @NomeCliente@ -> Daniella
+[2025-10-10 10:54:49] Concluído: Protocolo 251023277192
+[2025-10-10 10:54:49] Processando protocolo 137/223: 251023277236
+[2025-10-10 10:54:53] Sem ação: Protocolo 251023277236 com fase FINALIZADA
+[2025-10-10 10:54:53] Processando protocolo 138/223: 251023277332
+[2025-10-10 10:54:56] Sem ação: Protocolo 251023277332 com fase FINALIZADA
+[2025-10-10 10:54:56] Processando protocolo 139/223: 251023277321
+[2025-10-10 10:55:03] Nome do cliente encontrado: MARIA LINDINALVA DOS SANTOS
+[2025-10-10 10:55:03] Script personalizado: @NomeCliente@ -> Maria
+[2025-10-10 10:55:14] Concluído: Protocolo 251023277321
+[2025-10-10 10:55:14] Processando protocolo 140/223: 251023277323
+[2025-10-10 10:55:20] Nome do cliente encontrado: OLGA MARIA ALVES BORGES
+[2025-10-10 10:55:20] Script personalizado: @NomeCliente@ -> Olga
+[2025-10-10 10:55:32] Concluído: Protocolo 251023277323
+[2025-10-10 10:55:32] Processando protocolo 141/223: 251023277328
+[2025-10-10 10:55:38] Nome do cliente encontrado: MARCIA ROBERTA SILVA DA SILVA
+[2025-10-10 10:55:38] Script personalizado: @NomeCliente@ -> Marcia
+[2025-10-10 10:55:52] Concluído: Protocolo 251023277328
+[2025-10-10 10:55:52] Processando protocolo 142/223: 251023277338
+[2025-10-10 10:55:58] Nome do cliente encontrado: LUCIANA MOURA DA SILVA
+[2025-10-10 10:55:58] Script personalizado: @NomeCliente@ -> Luciana
+[2025-10-10 10:56:10] Concluído: Protocolo 251023277338
+[2025-10-10 10:56:10] Processando protocolo 143/223: 251023277354
+[2025-10-10 10:56:16] Nome do cliente encontrado: ADRIANA QUINET DE ANDRADE PIFANO
+[2025-10-10 10:56:16] Script personalizado: @NomeCliente@ -> Adriana
+[2025-10-10 10:56:28] Concluído: Protocolo 251023277354
+[2025-10-10 10:56:28] Processando protocolo 144/223: 251023277309
+[2025-10-10 10:56:34] Nome do cliente encontrado: ANA CAROLINE ARTHUR
+[2025-10-10 10:56:34] Script personalizado: @NomeCliente@ -> Ana
+[2025-10-10 10:56:47] Concluído: Protocolo 251023277309
+[2025-10-10 10:56:47] Processando protocolo 145/223: 251023277372
+[2025-10-10 10:56:53] Nome do cliente encontrado: MATHEUS HORT DO VALE
+[2025-10-10 10:56:53] Script personalizado: @NomeCliente@ -> Matheus
+[2025-10-10 10:57:05] Concluído: Protocolo 251023277372
+[2025-10-10 10:57:05] Processando protocolo 146/223: 251023277430
+[2025-10-10 10:57:11] Nome do cliente encontrado: KETLEN NAYANE DOS SANTOS
+[2025-10-10 10:57:11] Script personalizado: @NomeCliente@ -> Ketlen
+[2025-10-10 10:57:23] Concluído: Protocolo 251023277430
+[2025-10-10 10:57:23] Processando protocolo 147/223: 251023277406
+[2025-10-10 10:57:27] Sem ação: Protocolo 251023277406 com fase FINALIZADA
+[2025-10-10 10:57:27] Processando protocolo 148/223: 251023277390
+[2025-10-10 10:57:33] Nome do cliente encontrado: PAULO ALVES PEREIRA
+[2025-10-10 10:57:33] Script personalizado: @NomeCliente@ -> Paulo
+[2025-10-10 10:57:45] Concluído: Protocolo 251023277390
+[2025-10-10 10:57:45] Processando protocolo 149/223: 251023277481
+[2025-10-10 10:57:52] Nome do cliente encontrado: MARIA CONCEBIDA ALVES MACHADO
+[2025-10-10 10:57:52] Script personalizado: @NomeCliente@ -> Maria
+[2025-10-10 10:58:03] Concluído: Protocolo 251023277481
+[2025-10-10 10:58:03] Processando protocolo 150/223: 251023277484
+[2025-10-10 10:58:11] Nome do cliente encontrado: ECILDA LEMOS BORGES
+[2025-10-10 10:58:11] Script personalizado: @NomeCliente@ -> Ecilda
+[2025-10-10 10:58:22] Concluído: Protocolo 251023277484
+[2025-10-10 10:58:22] Processando protocolo 151/223: 251023277462
+[2025-10-10 10:58:29] Nome do cliente encontrado: JOSE ARISTIDES DA ROCHA NETO
+[2025-10-10 10:58:29] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 10:58:41] Concluído: Protocolo 251023277462
+[2025-10-10 10:58:41] Processando protocolo 152/223: 251023277544
+[2025-10-10 10:58:47] Nome do cliente encontrado: MARIA DE LOURDES DE CARVALHO
+[2025-10-10 10:58:47] Script personalizado: @NomeCliente@ -> Maria
+[2025-10-10 10:58:59] Concluído: Protocolo 251023277544
+[2025-10-10 10:58:59] Processando protocolo 153/223: 251023277567
+[2025-10-10 10:59:06] Nome do cliente encontrado: FELIPE WENDER NASCIMENTO DA SILVA
+[2025-10-10 10:59:06] Script personalizado: @NomeCliente@ -> Felipe
+[2025-10-10 10:59:17] Concluído: Protocolo 251023277567
+[2025-10-10 10:59:17] Processando protocolo 154/223: 251023277644
+[2025-10-10 10:59:24] Nome do cliente encontrado: MARCOS VINICIUS PINHEIRO GOMES
+[2025-10-10 10:59:24] Script personalizado: @NomeCliente@ -> Marcos
+[2025-10-10 10:59:36] Concluído: Protocolo 251023277644
+[2025-10-10 10:59:36] Processando protocolo 155/223: 251023277647
+[2025-10-10 10:59:43] Nome do cliente encontrado: ELIEL MENDES MELO
+[2025-10-10 10:59:43] Script personalizado: @NomeCliente@ -> Eliel
+[2025-10-10 10:59:54] Concluído: Protocolo 251023277647
+[2025-10-10 10:59:54] Processando protocolo 156/223: 251023277700
+[2025-10-10 11:00:01] Nome do cliente encontrado: RODRIGO REIS LIMA
+[2025-10-10 11:00:01] Script personalizado: @NomeCliente@ -> Rodrigo
+[2025-10-10 11:00:12] Concluído: Protocolo 251023277700
+[2025-10-10 11:00:12] Processando protocolo 157/223: 251023277715
+[2025-10-10 11:00:16] Sem ação: Protocolo 251023277715 com fase FINALIZADA
+[2025-10-10 11:00:16] Processando protocolo 158/223: 251023277716
+[2025-10-10 11:00:20] Sem ação: Protocolo 251023277716 com fase FINALIZADA
+[2025-10-10 11:00:20] Processando protocolo 159/223: 251023277726
+[2025-10-10 11:00:24] Sem ação: Protocolo 251023277726 com fase FINALIZADA
+[2025-10-10 11:00:24] Processando protocolo 160/223: 251023277627
+[2025-10-10 11:00:28] Sem ação: Protocolo 251023277627 com fase FINALIZADA
+[2025-10-10 11:00:28] Processando protocolo 161/223: 251023277746
+[2025-10-10 11:00:35] Nome do cliente encontrado: FRANCISCA HEVILA SOUZA ANDRADE PACHECO
+[2025-10-10 11:00:35] Script personalizado: @NomeCliente@ -> Francisca
+[2025-10-10 11:00:47] Concluído: Protocolo 251023277746
+[2025-10-10 11:00:47] Processando protocolo 162/223: 251023277791
+[2025-10-10 11:00:54] Nome do cliente encontrado: GIOVANA MARIA SALES DA SILVA
+[2025-10-10 11:00:54] Script personalizado: @NomeCliente@ -> Giovana
+[2025-10-10 11:01:05] Concluído: Protocolo 251023277791
+[2025-10-10 11:01:05] Processando protocolo 163/223: 251023277830
+[2025-10-10 11:01:12] Nome do cliente encontrado: JOSE RIBEIRO SOARES SOBRINHO
+[2025-10-10 11:01:12] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 11:01:23] Concluído: Protocolo 251023277830
+[2025-10-10 11:01:23] Processando protocolo 164/223: 251023277864
+[2025-10-10 11:01:27] Sem ação: Protocolo 251023277864 com fase FINALIZADA
+[2025-10-10 11:01:27] Processando protocolo 165/223: 251023277909
+[2025-10-10 11:01:34] Nome do cliente encontrado: SERGIO ANTONIO REZENDE GIRALDELLI
+[2025-10-10 11:01:34] Script personalizado: @NomeCliente@ -> Sergio
+[2025-10-10 11:01:45] Concluído: Protocolo 251023277909
+[2025-10-10 11:01:45] Processando protocolo 166/223: 251023277843
+[2025-10-10 11:01:52] Nome do cliente encontrado: FABIANO HENRIQUE ARAUJO FIGUEIREDO
+[2025-10-10 11:01:52] Script personalizado: @NomeCliente@ -> Fabiano
+[2025-10-10 11:02:03] Concluído: Protocolo 251023277843
+[2025-10-10 11:02:03] Processando protocolo 167/223: 251023277850
+[2025-10-10 11:02:09] Nome do cliente encontrado: KEILA GUIMARAES DECORACAO DE FESTAS
+[2025-10-10 11:02:09] Script personalizado: @NomeCliente@ -> Keila
+[2025-10-10 11:02:21] Concluído: Protocolo 251023277850
+[2025-10-10 11:02:21] Processando protocolo 168/223: 251023278024
+[2025-10-10 11:02:28] Nome do cliente encontrado: CLAYTON F SANT ANA CASAES ME
+[2025-10-10 11:02:28] Script personalizado: @NomeCliente@ -> Clayton
+[2025-10-10 11:02:40] Concluído: Protocolo 251023278024
+[2025-10-10 11:02:40] Processando protocolo 169/223: 251023278061
+[2025-10-10 11:02:46] Nome do cliente encontrado: MOACIR VACCA JUNIOR
+[2025-10-10 11:02:46] Script personalizado: @NomeCliente@ -> Moacir
+[2025-10-10 11:02:57] Concluído: Protocolo 251023278061
+[2025-10-10 11:02:57] Processando protocolo 170/223: 251023278089
+[2025-10-10 11:03:04] Nome do cliente encontrado: ALANNA CRISTINA VIEIRA ALVES
+[2025-10-10 11:03:04] Script personalizado: @NomeCliente@ -> Alanna
+[2025-10-10 11:03:15] Concluído: Protocolo 251023278089
+[2025-10-10 11:03:15] Processando protocolo 171/223: 251023278154
+[2025-10-10 11:03:21] Nome do cliente encontrado: ANGELO ANTONIO ANDRADE SANTOS
+[2025-10-10 11:03:21] Script personalizado: @NomeCliente@ -> Angelo
+[2025-10-10 11:03:34] Concluído: Protocolo 251023278154
+[2025-10-10 11:03:34] Processando protocolo 172/223: 251023278169
+[2025-10-10 11:03:40] Nome do cliente encontrado: ANDREIA CRISTIANE CHRISPIM DO ROSARIO
+[2025-10-10 11:03:40] Script personalizado: @NomeCliente@ -> Andreia
+[2025-10-10 11:03:51] Concluído: Protocolo 251023278169
+[2025-10-10 11:03:51] Processando protocolo 173/223: 251023278259
+[2025-10-10 11:03:58] Nome do cliente encontrado: MADAM INDUSTRIA E COMERCIO DE CONFECCOES
+[2025-10-10 11:03:58] Script personalizado: @NomeCliente@ -> Madam
+[2025-10-10 11:04:10] Concluído: Protocolo 251023278259
+[2025-10-10 11:04:10] Processando protocolo 174/223: 251023278282
+[2025-10-10 11:04:17] Nome do cliente encontrado: ANA ISABEL SALCEDO MUNOZ MACIEL
+[2025-10-10 11:04:17] Script personalizado: @NomeCliente@ -> Ana
+[2025-10-10 11:04:28] Concluído: Protocolo 251023278282
+[2025-10-10 11:04:28] Processando protocolo 175/223: 251023278091
+[2025-10-10 11:04:34] Nome do cliente encontrado: DANIEL ARMANDO NASCIMENTO OLIVEIRA
+[2025-10-10 11:04:34] Script personalizado: @NomeCliente@ -> Daniel
+[2025-10-10 11:04:46] Concluído: Protocolo 251023278091
+[2025-10-10 11:04:46] Processando protocolo 176/223: 251023278287
+[2025-10-10 11:04:52] Nome do cliente encontrado: RENATO MARTINS
+[2025-10-10 11:04:52] Script personalizado: @NomeCliente@ -> Renato
+[2025-10-10 11:05:04] Concluído: Protocolo 251023278287
+[2025-10-10 11:05:04] Processando protocolo 177/223: 251023278372
+[2025-10-10 11:05:10] Nome do cliente encontrado: JOSE ROBERIO DA SILVA
+[2025-10-10 11:05:10] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 11:05:23] Concluído: Protocolo 251023278372
+[2025-10-10 11:05:23] Processando protocolo 178/223: 251023278308
+[2025-10-10 11:05:29] Nome do cliente encontrado: WILMA AUGUSTA SANTOS
+[2025-10-10 11:05:29] Script personalizado: @NomeCliente@ -> Wilma
+[2025-10-10 11:05:40] Concluído: Protocolo 251023278308
+[2025-10-10 11:05:40] Processando protocolo 179/223: 251023278309
+[2025-10-10 11:05:47] Nome do cliente encontrado: PEDRO RODRIGUES DA SILVA FILHO
+[2025-10-10 11:05:47] Script personalizado: @NomeCliente@ -> Pedro
+[2025-10-10 11:05:58] Concluído: Protocolo 251023278309
+[2025-10-10 11:05:58] Processando protocolo 180/223: 251023278395
+[2025-10-10 11:06:05] Nome do cliente encontrado: FABIO ALEXANDRE MODESTO
+[2025-10-10 11:06:05] Script personalizado: @NomeCliente@ -> Fabio
+[2025-10-10 11:06:17] Concluído: Protocolo 251023278395
+[2025-10-10 11:06:17] Processando protocolo 181/223: 251023278385
+[2025-10-10 11:06:24] Nome do cliente encontrado: JOSE ASSIS LAURENTINO DIAS
+[2025-10-10 11:06:24] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 11:06:37] Concluído: Protocolo 251023278385
+[2025-10-10 11:06:37] Processando protocolo 182/223: 251023278387
+[2025-10-10 11:06:43] Nome do cliente encontrado: JOSE ROBERTO FAUSTINO JUNIOR
+[2025-10-10 11:06:43] Script personalizado: @NomeCliente@ -> Jose
+[2025-10-10 11:06:56] Concluído: Protocolo 251023278387
+[2025-10-10 11:06:56] Processando protocolo 183/223: 251023278459
+[2025-10-10 11:07:03] Nome do cliente encontrado: ENRIQUE CARVALHO ROCHA
+[2025-10-10 11:07:03] Script personalizado: @NomeCliente@ -> Enrique
+[2025-10-10 11:07:15] Concluído: Protocolo 251023278459
+[2025-10-10 11:07:15] Processando protocolo 184/223: 251023278474
+[2025-10-10 11:07:22] Nome do cliente encontrado: DALILA RIBEIRO DOS SANTOS
+[2025-10-10 11:07:22] Script personalizado: @NomeCliente@ -> Dalila
+[2025-10-10 11:07:34] Concluído: Protocolo 251023278474
+[2025-10-10 11:07:34] Processando protocolo 185/223: 251023278478
+[2025-10-10 11:07:41] Nome do cliente encontrado: GUILHERME DOS SANTOS MIRANDA
+[2025-10-10 11:07:41] Script personalizado: @NomeCliente@ -> Guilherme
+[2025-10-10 11:07:53] Concluído: Protocolo 251023278478
+[2025-10-10 11:07:53] Processando protocolo 186/223: 251023278489
+[2025-10-10 11:07:59] Nome do cliente encontrado: ENOS LIMA DE PAFFER
+[2025-10-10 11:07:59] Script personalizado: @NomeCliente@ -> Enos
+[2025-10-10 11:08:12] Concluído: Protocolo 251023278489
+[2025-10-10 11:08:12] Processando protocolo 187/223: 251023278574
+[2025-10-10 11:08:18] Nome do cliente encontrado: ADRIANO SLOMPO SCARANTE
+[2025-10-10 11:08:18] Script personalizado: @NomeCliente@ -> Adriano
+[2025-10-10 11:08:31] Concluído: Protocolo 251023278574
+[2025-10-10 11:08:31] Processando protocolo 188/223: 251023278577
+[2025-10-10 11:08:37] Nome do cliente encontrado: ANTONIO MARCOS DE OLIVEIRA
+[2025-10-10 11:08:37] Script personalizado: @NomeCliente@ -> Antonio
+[2025-10-10 11:08:51] Concluído: Protocolo 251023278577
+[2025-10-10 11:08:51] Processando protocolo 189/223: 251023278603
+[2025-10-10 11:08:57] Nome do cliente encontrado: J P R ALCANTARA
+[2025-10-10 11:08:57] Script personalizado: @NomeCliente@ -> J
+[2025-10-10 11:09:10] Concluído: Protocolo 251023278603
+[2025-10-10 11:09:10] Processando protocolo 190/223: 251023278644
+[2025-10-10 11:09:17] Nome do cliente encontrado: ANALIA REGINA SENA DA COSTA
+[2025-10-10 11:09:17] Script personalizado: @NomeCliente@ -> Analia
+[2025-10-10 11:09:28] Concluído: Protocolo 251023278644
+[2025-10-10 11:09:28] Processando protocolo 191/223: 251023278650
+[2025-10-10 11:09:35] Nome do cliente encontrado: FRANCISCO DE OLIVEIRA NETO
+[2025-10-10 11:09:35] Script personalizado: @NomeCliente@ -> Francisco
+[2025-10-10 11:09:47] Concluído: Protocolo 251023278650
+[2025-10-10 11:09:47] Processando protocolo 192/223: 251023278684
+[2025-10-10 11:09:53] Nome do cliente encontrado: SEBASTIAO OSNI DE MORAES
+[2025-10-10 11:09:53] Script personalizado: @NomeCliente@ -> Sebastiao
+[2025-10-10 11:10:05] Concluído: Protocolo 251023278684
+[2025-10-10 11:10:05] Processando protocolo 193/223: 251023278751
+[2025-10-10 11:10:12] Nome do cliente encontrado: MAIARA RODRIGUES DOS SANTOS
+[2025-10-10 11:10:12] Script personalizado: @NomeCliente@ -> Maiara
+[2025-10-10 11:10:23] Concluído: Protocolo 251023278751
+[2025-10-10 11:10:23] Processando protocolo 194/223: 251023278834
+[2025-10-10 11:10:30] Nome do cliente encontrado: LIVIA MARIA LIMA DE CARVALHO
+[2025-10-10 11:10:30] Script personalizado: @NomeCliente@ -> Livia
+[2025-10-10 11:10:42] Concluído: Protocolo 251023278834
+[2025-10-10 11:10:42] Processando protocolo 195/223: 251023278861
+[2025-10-10 11:10:46] Sem ação: Protocolo 251023278861 com fase FINALIZADA
+[2025-10-10 11:10:46] Processando protocolo 196/223: 251023278883
+[2025-10-10 11:10:52] Nome do cliente encontrado: JUAREZ LOURENCO
+[2025-10-10 11:10:52] Script personalizado: @NomeCliente@ -> Juarez
+[2025-10-10 11:11:04] Concluído: Protocolo 251023278883
+[2025-10-10 11:11:04] Processando protocolo 197/223: 251023278849
+[2025-10-10 11:11:10] Nome do cliente encontrado: JOSEMAR FREITAS DO NASCIMENTO ME
+[2025-10-10 11:11:10] Script personalizado: @NomeCliente@ -> Josemar
+[2025-10-10 11:11:22] Concluído: Protocolo 251023278849
+[2025-10-10 11:11:22] Processando protocolo 198/223: 251023278968
+[2025-10-10 11:11:29] Nome do cliente encontrado: CLEIDIMAR MARIA DE AZEREDO
+[2025-10-10 11:11:29] Script personalizado: @NomeCliente@ -> Cleidimar
+[2025-10-10 11:11:42] Concluído: Protocolo 251023278968
+[2025-10-10 11:11:42] Processando protocolo 199/223: 251023278985
+[2025-10-10 11:11:48] Nome do cliente encontrado: LISIANI MARIA LUZ FIGUEIRO
+[2025-10-10 11:11:48] Script personalizado: @NomeCliente@ -> Lisiani
+[2025-10-10 11:11:59] Concluído: Protocolo 251023278985
+[2025-10-10 11:12:00] Processando protocolo 200/223: 251023279038
+[2025-10-10 11:12:06] Nome do cliente encontrado: RENE GUERRA LUSTOSA
+[2025-10-10 11:12:06] Script personalizado: @NomeCliente@ -> Rene
+[2025-10-10 11:12:18] Concluído: Protocolo 251023279038
+[2025-10-10 11:12:18] Processando protocolo 201/223: 251023279067
+[2025-10-10 11:12:24] Nome do cliente encontrado: FATIMA HIDEKO MARUYAMA
+[2025-10-10 11:12:24] Script personalizado: @NomeCliente@ -> Fatima
+[2025-10-10 11:12:36] Concluído: Protocolo 251023279067
+[2025-10-10 11:12:36] Processando protocolo 202/223: 251023279140
+[2025-10-10 11:12:42] Nome do cliente encontrado: VILMAR JOSE DE FARIAS
+[2025-10-10 11:12:42] Script personalizado: @NomeCliente@ -> Vilmar
+[2025-10-10 11:12:54] Concluído: Protocolo 251023279140
+[2025-10-10 11:12:54] Processando protocolo 203/223: 251023279153
+[2025-10-10 11:13:01] Nome do cliente encontrado: MAICON RODRIGUES CIRO
+[2025-10-10 11:13:01] Script personalizado: @NomeCliente@ -> Maicon
+[2025-10-10 11:13:14] Concluído: Protocolo 251023279153
+[2025-10-10 11:13:14] Processando protocolo 204/223: 251023279195
+[2025-10-10 11:13:20] Nome do cliente encontrado: LORENA TRINDADE DA COSTA
+[2025-10-10 11:13:20] Script personalizado: @NomeCliente@ -> Lorena
+[2025-10-10 11:13:32] Concluído: Protocolo 251023279195
+[2025-10-10 11:13:32] Processando protocolo 205/223: 251023279218
+[2025-10-10 11:13:39] Nome do cliente encontrado: DEUSIMAR GOMES DE CASTRO
+[2025-10-10 11:13:39] Script personalizado: @NomeCliente@ -> Deusimar
+[2025-10-10 11:13:50] Concluído: Protocolo 251023279218
+[2025-10-10 11:13:50] Processando protocolo 206/223: 251023279220
+[2025-10-10 11:13:54] Sem ação: Protocolo 251023279220 com fase FINALIZADA
+[2025-10-10 11:13:54] Processando protocolo 207/223: 251023279207
+[2025-10-10 11:14:00] Nome do cliente encontrado: MARLENE DOS SANTOS SOUZA
+[2025-10-10 11:14:00] Script personalizado: @NomeCliente@ -> Marlene
+[2025-10-10 11:14:12] Concluído: Protocolo 251023279207
+[2025-10-10 11:14:12] Processando protocolo 208/223: 251023279354
+[2025-10-10 11:14:16] Sem ação: Protocolo 251023279354 com fase FINALIZADA
+[2025-10-10 11:14:16] Processando protocolo 209/223: 251023279342
+[2025-10-10 11:14:22] Nome do cliente encontrado: ROSANGELA VALINE DOS SANTOS
+[2025-10-10 11:14:22] Script personalizado: @NomeCliente@ -> Rosangela
+[2025-10-10 11:14:33] Concluído: Protocolo 251023279342
+[2025-10-10 11:14:33] Processando protocolo 210/223: 251023279306
+[2025-10-10 11:14:37] Sem ação: Protocolo 251023279306 com fase FINALIZADA
+[2025-10-10 11:14:37] Processando protocolo 211/223: 251023279308
+[2025-10-10 11:14:43] Nome do cliente encontrado: MARIA ERCILENE MONTEIRO
+[2025-10-10 11:14:43] Script personalizado: @NomeCliente@ -> Maria
+[2025-10-10 11:14:55] Concluído: Protocolo 251023279308
+[2025-10-10 11:14:55] Processando protocolo 212/223: 251023279419
+[2025-10-10 11:14:58] Sem ação: Protocolo 251023279419 com fase FINALIZADA
+[2025-10-10 11:14:59] Processando protocolo 213/223: 251023279445
+[2025-10-10 11:15:05] Nome do cliente encontrado: ROBSON MACIEL DE SOUZA
+[2025-10-10 11:15:05] Script personalizado: @NomeCliente@ -> Robson
+[2025-10-10 11:15:17] Concluído: Protocolo 251023279445
+[2025-10-10 11:15:17] Processando protocolo 214/223: 251023279551
+[2025-10-10 11:15:20] Sem ação: Protocolo 251023279551 com fase FINALIZADA
+[2025-10-10 11:15:20] Processando protocolo 215/223: 251023279675
+[2025-10-10 11:15:24] Sem ação: Protocolo 251023279675 com fase FINALIZADA
+[2025-10-10 11:15:24] Processando protocolo 216/223: 251023279692
+[2025-10-10 11:15:31] Nome do cliente encontrado: ADRIENNE THABATA DA FONSECA
+[2025-10-10 11:15:31] Script personalizado: @NomeCliente@ -> Adrienne
+[2025-10-10 11:15:42] Concluído: Protocolo 251023279692
+[2025-10-10 11:15:42] Processando protocolo 217/223: 251023279707
+[2025-10-10 11:15:46] Sem ação: Protocolo 251023279707 com fase FINALIZADA
+[2025-10-10 11:15:46] Processando protocolo 218/223: 251023279869
+[2025-10-10 11:15:53] Nome do cliente encontrado: JULIANE SILVEIRA
+[2025-10-10 11:15:53] Script personalizado: @NomeCliente@ -> Juliane
+[2025-10-10 11:16:05] Concluído: Protocolo 251023279869
+[2025-10-10 11:16:05] Processando protocolo 219/223: 251023280005
+[2025-10-10 11:16:09] Sem ação: Protocolo 251023280005 com fase FINALIZADA
+[2025-10-10 11:16:09] Processando protocolo 220/223: 251023280054
+[2025-10-10 11:16:15] Nome do cliente encontrado: PAULO DA SILVA MARTINS
+[2025-10-10 11:16:15] Script personalizado: @NomeCliente@ -> Paulo
+[2025-10-10 11:16:26] Concluído: Protocolo 251023280054
+[2025-10-10 11:16:26] Processando protocolo 221/223: 251023280056
+[2025-10-10 11:16:33] Nome do cliente encontrado: MARIA JULIA SANTOS PINTO
+[2025-10-10 11:16:33] Script personalizado: @NomeCliente@ -> Maria
+[2025-10-10 11:16:44] Concluído: Protocolo 251023280056
+[2025-10-10 11:16:44] Processando protocolo 222/223: 251023279890
+[2025-10-10 11:16:51] Nome do cliente encontrado: MARIA FRANCILENE NASCIMENTO SENA
+[2025-10-10 11:16:51] Script personalizado: @NomeCliente@ -> Maria
+[2025-10-10 11:17:02] Concluído: Protocolo 251023279890
+[2025-10-10 11:17:02] Processando protocolo 223/223: 251023280062
+[2025-10-10 11:17:09] Nome do cliente encontrado: RUTE RODRIGUES BATISTA PINTO
+[2025-10-10 11:17:09] Script personalizado: @NomeCliente@ -> Rute
+[2025-10-10 11:17:20] Concluído: Protocolo 251023280062
+[2025-10-10 11:17:20] Processamento finalizado em 3408.28 segundos
+[2025-10-10 11:17:20] Protocolos processados: 223
+[2025-10-10 11:17:33] Driver fechado
