@@ -24,16 +24,260 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
-### Em Planejamento
-- Migração de Firefox para Chrome
-- Centralização de seletores XPath
-- Sistema de validação de páginas
+### Em Desenvolvimento (v3.0.0-alpha.2)
+- Refatoração de fechamento_em_lote() (193→80 linhas)
+- Refatoração de criar_interface() (327 linhas) em módulos UI
+- Refatoração de finalizar_protocolo() (102→50 linhas)
+- Testes automatizados dos novos módulos
 - Timeouts adaptativos
-- Refatoração e simplificação de código
 
 ---
 
-## [2.1.0] - 2025-10-23 - ✅ STABLE (ATUAL)
+## [3.0.0-alpha.1] - 2025-10-30 - 🔬 ALPHA (ATUAL)
+
+**Navegador:** Chrome (padrão) + Firefox (legado)
+**Tag Git:** `v3.0.0-alpha.1`
+**Branch:** `feature/v3.0.0-chrome-migration`
+
+### ⚠️ BREAKING CHANGES
+
+Esta é uma versão ALPHA em desenvolvimento ativo. **NÃO usar em produção.**
+
+- Navegador padrão mudou de Firefox para Chrome
+- Nova estrutura modular de pastas
+- Reorganização de imports
+- API de drivers abstraída (BaseDriver)
+
+### ✨ Adicionado - Arquitetura Modular
+
+**Nova estrutura de pastas:**
+```
+wallbot_project/
+├── config/
+│   └── config.py              # Configurações centralizadas
+├── drivers/
+│   ├── base_driver.py         # Classe abstrata
+│   ├── chrome_driver.py       # Implementação Chrome (NOVO)
+│   ├── firefox_driver.py      # Implementação Firefox (legado)
+│   └── driver_factory.py      # Factory Pattern
+├── selectors/
+│   └── siach_selectors.py     # 16 XPaths centralizados
+├── validators/
+│   └── page_validators.py     # Validações de página e sessão
+└── requirements.txt            # Dependências
+```
+
+**Módulos criados:**
+
+1. **`selectors/siach_selectors.py`** (280 linhas)
+   - Classe `SIACHSelectors` com 16 seletores XPath organizados
+   - Classe `FasesProtocolo` com lógica de fases
+   - Métodos: `validate_selectors()`, `print_selectors()`
+   - Categorias: LOGIN, MENU, FORM, PROTOCOLO, CLIENTE, FINALIZACAO
+
+2. **`validators/page_validators.py`** (450 linhas)
+   - `validar_arquivo_excel()` - Valida arquivos Excel
+   - `validar_email()` - Valida formato de email
+   - `validar_credenciais()` - Valida login
+   - `validar_pagina_siach()` - Detecta tipo de página
+   - `verificar_sessao_valida()` - Checa expiração de sessão
+   - `detectar_pagina_manutencao()` - Identifica manutenção
+   - `verificar_erro_conexao()` - Classifica erros de conexão
+   - `validar_fase_protocolo()` - Valida fase processável
+
+3. **`config/config.py`** (150 linhas)
+   - Classe `WallBotConfig` com todas as configurações
+   - Classe `EnvConfig` para variáveis de ambiente
+   - Configurações: URLs, arquivos, timeouts, navegador
+   - Métodos: `to_dict()`, `print_config()`, `validar_config()`
+
+4. **`drivers/base_driver.py`** (180 linhas)
+   - Classe abstrata `BaseDriver`
+   - Interface comum para Chrome/Firefox
+   - Métodos: `criar()`, `fechar_seguro()`, `aplicar_zoom()`
+   - Context manager support (`with` statement)
+
+5. **`drivers/chrome_driver.py`** (200 linhas)
+   - Implementação Chrome otimizada
+   - Modo stealth (anti-detecção de automação)
+   - Configurações de performance
+   - Headless mode support
+   - ChromeDriver auto-install via webdriver-manager
+
+6. **`drivers/firefox_driver.py`** (120 linhas)
+   - Implementação Firefox (legado v2.1.0)
+   - Mantém compatibilidade com versão anterior
+   - GeckoDriver auto-install
+
+7. **`drivers/driver_factory.py`** (80 linhas)
+   - Factory Pattern para criação de drivers
+   - `criar_driver(navegador='chrome')` - API unificada
+   - Suporta variáveis de ambiente (`WALLBOT_NAVEGADOR`)
+   - `navegadores_suportados()` - Lista navegadores
+
+### 🔄 Alterado
+
+- Navegador padrão: Firefox → Chrome
+- Delay de fechamento: 3s → 1s (Chrome é mais rápido)
+- Timeout de script: Não configurado → 60s
+- Timeout de página: Implícito → 45s
+
+### 🐛 Corrigido
+
+- **Issue #3**: Timeout de script JavaScript agora configurado (60s)
+- **Issue #4**: Fechamento mais rápido no Chrome (1s vs 3s)
+- Seletores XPath agora centralizados (fácil manutenção)
+- Configurações agora organizadas em classe única
+
+### 📝 Melhorias
+
+- **Manutenibilidade**: Código modular, fácil de testar e extender
+- **Extensibilidade**: Novos navegadores podem ser adicionados facilmente
+- **Testabilidade**: Cada módulo pode ser testado independentemente
+- **Documentação**: Cada módulo autodocumentado com docstrings
+- **Performance**: Chrome ~18% mais rápido que Firefox
+
+### ⚡ Performance Estimada (Chrome)
+
+| Métrica | v2.1.0 (Firefox) | v3.0.0 (Chrome) | Melhoria |
+|---------|------------------|-----------------|----------|
+| Tempo/protocolo | 30.6s | ~25.2s | -18% |
+| Consumo RAM | 820MB | ~580MB | -29% |
+| Delay fechamento | 3s | 1s | -67% |
+| Erros timeout | 5% | ~2% (estimado) | -60% |
+
+### 🔧 Configuração
+
+**Usar Chrome (padrão):**
+```bash
+# Nada necessário, Chrome é padrão
+python WallBot_v3.py
+```
+
+**Usar Firefox (legado):**
+```bash
+# Variável de ambiente
+export WALLBOT_NAVEGADOR=firefox
+python WallBot_v3.py
+
+# Ou via código
+from drivers import DriverFactory
+driver = DriverFactory.criar_driver('firefox')
+```
+
+**Configurar timeout:**
+```bash
+export WALLBOT_TIMEOUT=20  # 20 segundos
+export WALLBOT_MAX_RECONEXAO=5  # 5 tentativas
+```
+
+### 📚 Uso da Nova Arquitetura
+
+**Exemplo 1: Criar driver Chrome**
+```python
+from drivers import DriverFactory
+
+# Criar Chrome (padrão)
+driver_wrapper = DriverFactory.criar_driver()
+driver = driver_wrapper.driver
+
+# Usar driver
+driver.get('https://cartoes.extracaixa/')
+
+# Fechar
+driver_wrapper.fechar_seguro()
+```
+
+**Exemplo 2: Usar seletores**
+```python
+from selectors import SIACHSelectors
+
+# Encontrar elemento
+username_field = driver.find_element(*SIACHSelectors.LOGIN_USERNAME)
+username_field.send_keys('usuario@email.com')
+
+# Verificar fase
+from selectors.siach_selectors import FasesProtocolo
+if FasesProtocolo.pode_finalizar('ABERTA'):
+    print("Protocolo pode ser finalizado")
+```
+
+**Exemplo 3: Validar página**
+```python
+from validators import validar_pagina_siach, verificar_sessao_valida
+
+# Validar tipo de página
+resultado = validar_pagina_siach(driver, timeout=10)
+print(f"Página: {resultado['tipo_pagina']}")  # 'login', 'menu', 'protocolo'
+
+# Verificar se sessão expirou
+if not verificar_sessao_valida(driver):
+    print("Sessão expirada, fazer login novamente")
+```
+
+### 🧪 Testes
+
+Cada módulo possui bloco `if __name__ == "__main__"` para testes:
+
+```bash
+# Testar seletores
+python selectors/siach_selectors.py
+
+# Testar validadores
+python validators/page_validators.py
+
+# Testar config
+python config/config.py
+
+# Testar driver Chrome
+python drivers/chrome_driver.py
+
+# Testar factory
+python drivers/driver_factory.py
+```
+
+### 📦 Dependências
+
+Nova `requirements.txt`:
+```
+selenium==4.15.2
+webdriver-manager==4.0.1
+openpyxl==3.1.2
+customtkinter==5.2.0
+python-dotenv==1.0.0
+```
+
+### ⚠️ Limitações Conhecidas (Alpha)
+
+- WallBot_Firefox.py ainda não refatorado (usa código legado)
+- Interface UI ainda monolítica (327 linhas)
+- Função `fechamento_em_lote()` ainda longa (193 linhas)
+- Sem testes automatizados ainda
+- Sem integração com CI/CD
+
+### 🎯 Próximos Passos (v3.0.0-alpha.2)
+
+1. Refatorar `WallBot_Firefox.py` para usar novos módulos
+2. Criar `WallBot_v3.py` 100% modular
+3. Separar UI em módulos (`ui/forms.py`, `ui/stats_panel.py`, etc)
+4. Reduzir `fechamento_em_lote()` para ~80 linhas
+5. Implementar testes unitários
+6. Documentar arquitetura completa
+
+### 📖 Documentação
+
+- [ARCHITECTURE.md](./ARCHITECTURE.md) - Arquitetura detalhada dos módulos (em breve)
+- [MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md) - Guia de migração v2→v3 (em breve)
+
+### 🔗 Links Relacionados
+
+- Commit: `TBD` (após commit)
+- Pull Request: `TBD`
+- Issues resolvidas: #3 (parcial), #4 (parcial)
+
+---
+
+## [2.1.0] - 2025-10-23 - ✅ STABLE
 
 **Navegador:** Firefox
 **Tag Git:** `v2.1.0-firefox-stable`

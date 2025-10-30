@@ -1,0 +1,16 @@
+# WallBot SIACH v3.0.0 - Dependências
+
+# Selenium (automação web)
+selenium==4.15.2
+
+# WebDriver Managers (gerenciamento automático de drivers)
+webdriver-manager==4.0.1
+
+# Excel
+openpyxl==3.1.2
+
+# Interface Gráfica
+customtkinter==5.2.0
+
+# Utilitários
+python-dotenv==1.0.0  # Para variáveis de ambiente (opcional)

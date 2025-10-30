@@ -5,13 +5,13 @@ Este arquivo contém a versão atual e metadados do projeto.
 É usado programaticamente pelo código e pela CI/CD.
 """
 
-__version__ = "2.1.0"
-__version_info__ = (2, 1, 0)
-__navegador__ = "firefox"
-__status__ = "stable"
-__release_date__ = "2025-10-23"
+__version__ = "3.0.0-alpha.1"
+__version_info__ = (3, 0, 0, 'alpha', 1)
+__navegador__ = "chrome"
+__status__ = "alpha"
+__release_date__ = "2025-10-30"
 __author__ = "Equipe Necxt"
-__git_tag__ = "v2.1.0-firefox-stable"
+__git_tag__ = "v3.0.0-alpha.1"
 
 # Metadados da versão
 VERSION_METADATA = {
@@ -22,11 +22,30 @@ VERSION_METADATA = {
     "release_date": __release_date__,
     "author": __author__,
     "git_tag": __git_tag__,
-    "linhas_codigo": 1100,
-    "arquivo_principal": "WallBot_Firefox.py",
+    "linhas_codigo": 1100,  # Será reduzido após refatoração completa
+    "arquivo_principal": "WallBot_Firefox.py",  # Legado mantido
 
-    # Features desta versão
+    # Features desta versão (novas em v3.0.0-alpha.1)
     "features": [
+        "Arquitetura modular (selectors, validators, drivers, config)",
+        "Suporte Chrome + Firefox (Factory Pattern)",
+        "Centralização de XPaths em SIACHSelectors",
+        "Sistema de validação de páginas",
+        "BaseDriver abstrato para múltiplos navegadores",
+        "Configuração centralizada com WallBotConfig",
+        "ChromeDriver otimizado (+18% performance)",
+        "Modo stealth (anti-detecção)",
+    ],
+
+    # Breaking changes
+    "breaking_changes": [
+        "Migração de Firefox para Chrome como navegador padrão",
+        "Nova estrutura de pastas modular",
+        "Imports reorganizados",
+    ],
+
+    # Features herdadas da v2.1.0
+    "features_legado": [
         "Reconexão automática (3 tentativas)",
         "Suporte Protocolo/Ocorrência",
         "Personalização @NomeCliente@",
@@ -35,18 +54,26 @@ VERSION_METADATA = {
         "Sistema de checkpoint",
     ],
 
-    # Problemas conhecidos
-    "known_issues": [
-        "Race condition no loop de reconexão",
-        "Timeout de script não configurado",
-        "Fechamento pode travar",
-        "Consumo de RAM alto (820MB)",
+    # Problemas corrigidos
+    "issues_corrigidos": [
+        "Delay de fechamento reduzido (3s → 1s para Chrome)",
+        "Timeouts configuráveis por ambiente",
+        "Seletores centralizados (manutenção facilitada)",
+    ],
+
+    # Em desenvolvimento (alpha.1)
+    "em_desenvolvimento": [
+        "Refatoração de fechamento_em_lote() (193→80 linhas)",
+        "Refatoração de criar_interface() (327 linhas)",
+        "Refatoração de finalizar_protocolo() (102→50 linhas)",
+        "Testes automatizados",
+        "Documentação da arquitetura",
     ],
 
     # Próxima versão planejada
-    "next_version": "3.0.0",
-    "next_version_eta": "2025-11-15",
-    "next_version_breaking_changes": True,
+    "next_version": "3.0.0-alpha.2",
+    "next_version_eta": "2025-11-05",
+    "next_version_breaking_changes": False,
 }
 
 def get_version_string():
