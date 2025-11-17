@@ -23,7 +23,7 @@ VERSION_METADATA = {
     "author": __author__,
     "git_tag": __git_tag__,
     "linhas_codigo": 1100,  # Será reduzido após refatoração completa
-    "arquivo_principal": "WallBot_Firefox.py",  # Legado mantido
+    "arquivo_principal": "WallBot.py",  # Legado mantido
 
     # Features desta versão (novas em v3.0.0-alpha.1)
     "features": [
@@ -134,3 +134,4 @@ if __name__ == "__main__":
 
     print(f"\nVersão estável? {is_stable()}")
     print(f"Compatível com v2.0.0? {check_version_compatibility('2.0.0')}")
+

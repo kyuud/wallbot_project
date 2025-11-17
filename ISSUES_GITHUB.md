@@ -4,7 +4,7 @@ Este documento contém as issues que devem ser criadas no repositório GitHub pa
 
 ---
 
-## Issue #1: [CRÍTICO] Race Condition no Loop de Reconexão do WallBot_Firefox
+## Issue #1: [CRÍTICO] Race Condition no Loop de Reconexão do WallBot
 
 ### Labels
 `bug`, `priority: high`, `WallBot`, `Firefox`
@@ -14,13 +14,13 @@ Este documento contém as issues que devem ser criadas no repositório GitHub pa
 
 ### Descrição
 
-**Arquivo:** `Necxt - Caixa/WallBot_Firefox.py`
+**Arquivo:** `Necxt - Caixa/WallBot.py`
 **Linhas:** 660-735
 **Severidade:** ALTA
 
 #### Problema
 
-O loop de reconexão automática do WallBot_Firefox possui uma race condition que pode causar:
+O loop de reconexão automática do WallBot possui uma race condition que pode causar:
 - Vazamento de processos do Firefox (driver não fechado corretamente)
 - Protocolos ficarem presos em loop infinito
 - Estado inconsistente entre progresso salvo e real
@@ -125,7 +125,7 @@ else:
 
 #### Referência
 
-Ver análise completa em: `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` (seção 3, CRÍTICA 1)
+Ver análise completa em: `Necxt - Caixa/ANALISE_WallBot.md` (seção 3, CRÍTICA 1)
 
 ---
 
@@ -232,7 +232,7 @@ Ver análise completa em: `Necxt - Caixa/ANALISE_TECNICA.md` (seção 4, problem
 
 ### Descrição
 
-**Arquivo:** `Necxt - Caixa/WallBot_Firefox.py`
+**Arquivo:** `Necxt - Caixa/WallBot.py`
 **Linha:** 234 (`criar_driver`)
 **Severidade:** MÉDIA
 
@@ -280,7 +280,7 @@ def criar_driver():
 
 #### Referência
 
-Ver análise completa em: `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` (seção 3, MÉDIA 1)
+Ver análise completa em: `Necxt - Caixa/ANALISE_WallBot.md` (seção 3, MÉDIA 1)
 
 ---
 
@@ -294,7 +294,7 @@ Ver análise completa em: `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` (seção 3,
 
 ### Descrição
 
-**Arquivo:** `Necxt - Caixa/WallBot_Firefox.py`
+**Arquivo:** `Necxt - Caixa/WallBot.py`
 **Linhas:** 247-256
 **Severidade:** MÉDIA
 
@@ -388,7 +388,7 @@ def fechar_driver_seguro(driver, logger, timeout=10):
 
 #### Referência
 
-Ver análise completa em: `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` (seção 3, MÉDIA 2)
+Ver análise completa em: `Necxt - Caixa/ANALISE_WallBot.md` (seção 3, MÉDIA 2)
 
 ---
 
@@ -402,7 +402,7 @@ Ver análise completa em: `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` (seção 3,
 
 ### Descrição
 
-**Arquivo:** `Necxt - Caixa/WallBot_Firefox.py`
+**Arquivo:** `Necxt - Caixa/WallBot.py`
 **Linhas:** 258-294 (`reconectar_driver`)
 **Severidade:** MÉDIA
 
@@ -498,7 +498,7 @@ def reconectar_driver(email, senha, logger):
 
 #### Referência
 
-Ver análise completa em: `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` (seção 3, MÉDIA 3)
+Ver análise completa em: `Necxt - Caixa/ANALISE_WallBot.md` (seção 3, MÉDIA 3)
 
 ---
 
@@ -516,9 +516,10 @@ Ver análise completa em: `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` (seção 3,
 ### Documentação Completa
 
 - `Necxt - Caixa/ANALISE_TECNICA.md` - Análise geral de todos os arquivos
-- `Necxt - Caixa/ANALISE_WALLBOT_FIREFOX.md` - Análise detalhada do Firefox
+- `Necxt - Caixa/ANALISE_WallBot.md` - Análise detalhada do Firefox
 
 ---
 
 **Documento gerado por:** Claude Code
 **Data:** 29/10/2025
+

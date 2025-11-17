@@ -33,12 +33,12 @@ def validar_arquivo_excel(caminho_arquivo: str) -> Tuple[bool, str]:
     if not caminho_arquivo:
         return False, "Nenhum arquivo foi selecionado"
 
-    if not os.path.exists(caminho_arquivo):
-        return False, f"Arquivo não encontrado: {caminho_arquivo}"
-
     extensao = caminho_arquivo.lower()
     if not (extensao.endswith('.xlsx') or extensao.endswith('.xls')):
         return False, "Arquivo deve ser Excel (.xlsx ou .xls)"
+
+    if not os.path.exists(caminho_arquivo):
+        return False, f"Arquivo não encontrado: {caminho_arquivo}"
 
     # Verificar permissão de leitura
     if not os.access(caminho_arquivo, os.R_OK):

@@ -249,7 +249,7 @@ python-dotenv==1.0.0
 
 ### ⚠️ Limitações Conhecidas (Alpha)
 
-- WallBot_Firefox.py ainda não refatorado (usa código legado)
+- WallBot.py ainda não refatorado (usa código legado)
 - Interface UI ainda monolítica (327 linhas)
 - Função `fechamento_em_lote()` ainda longa (193 linhas)
 - Sem testes automatizados ainda
@@ -257,7 +257,7 @@ python-dotenv==1.0.0
 
 ### 🎯 Próximos Passos (v3.0.0-alpha.2)
 
-1. Refatorar `WallBot_Firefox.py` para usar novos módulos
+1. Refatorar `WallBot.py` para usar novos módulos
 2. Criar `WallBot_v3.py` 100% modular
 3. Separar UI em módulos (`ui/forms.py`, `ui/stats_panel.py`, etc)
 4. Reduzir `fechamento_em_lote()` para ~80 linhas
@@ -585,7 +585,7 @@ git diff --name-only v2.1.0-firefox-stable v3.0.0
 ```bash
 # Reverter para versão estável anterior
 git checkout v2.1.0-firefox-stable
-python "Necxt - Caixa/WallBot_Firefox.py"
+python "Necxt - Caixa/WallBot.py"
 ```
 
 ---
@@ -615,3 +615,4 @@ python "Necxt - Caixa/WallBot_Firefox.py"
 
 *Última atualização: 2025-10-29*
 *Mantido por: Equipe WallBot*
+

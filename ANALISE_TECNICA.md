@@ -535,11 +535,11 @@ As versões v2 implementam modo append (linha 153-183)
 
 ---
 
-## 8. NOTA SOBRE WallBot_Firefox.py
+## 8. NOTA SOBRE WallBot.py
 
 ⚠️ **ARQUIVO NÃO ENCONTRADO**
 
-Durante a análise, foi solicitado examinar o arquivo `WallBot_Firefox.py`, porém este arquivo **não existe** no repositório.
+Durante a análise, foi solicitado examinar o arquivo `WallBot.py`, porém este arquivo **não existe** no repositório.
 
 **Possibilidades:**
 1. O arquivo foi renomeado ou removido
@@ -594,3 +594,4 @@ O projeto **Necxt - Caixa** possui uma estrutura sólida de automação RPA, esp
 **Documento gerado por:** Claude Code
 **Versão:** 1.0
 **Última atualização:** 29/10/2025
+

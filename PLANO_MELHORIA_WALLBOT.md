@@ -1,7 +1,7 @@
-# Plano de Melhoria e Otimização: WallBot_Firefox.py
+# Plano de Melhoria e Otimização: WallBot.py
 
 **Data:** 29 de Outubro de 2025
-**Arquivo Analisado:** `Necxt - Caixa/WallBot_Firefox.py` (1100 linhas)
+**Arquivo Analisado:** `Necxt - Caixa/WallBot.py` (1100 linhas)
 **Escopo:** Análise Chrome vs Firefox, Cenários de Falha, Simplificação
 
 ---
@@ -1314,7 +1314,7 @@ def fechamento_em_lote(..., email, senha, ...):
 git checkout -b refactor/wallbot-chrome
 
 # Backup
-cp "Necxt - Caixa/WallBot_Firefox.py" "Necxt - Caixa/WallBot_Firefox.py.backup"
+cp "Necxt - Caixa/WallBot.py" "Necxt - Caixa/WallBot.py.backup"
 
 # Instalar ChromeDriver
 pip install webdriver-manager selenium
@@ -1498,7 +1498,7 @@ pip install webdriver-manager selenium
 
 ## 7. CONCLUSÃO
 
-O **WallBot_Firefox.py** é um código funcional mas que pode ser significativamente melhorado em:
+O **WallBot.py** é um código funcional mas que pode ser significativamente melhorado em:
 - **Performance** (migração para Chrome)
 - **Robustez** (validações de página)
 - **Manutenibilidade** (simplificação e organização)
@@ -1512,3 +1512,4 @@ As mudanças propostas são **viáveis**, **testáveis** e trarão **benefícios
 **Documento gerado por:** Claude Code
 **Versão:** 1.0
 **Data:** 29/10/2025
+

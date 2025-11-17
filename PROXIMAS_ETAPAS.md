@@ -207,7 +207,7 @@ git push origin v3.0.0-alpha.1
 **Foco:** Refatoração do código principal
 
 **Tarefas:**
-1. Refatorar `WallBot_Firefox.py` para usar novos módulos
+1. Refatorar `WallBot.py` para usar novos módulos
 2. Criar `WallBot_v3.py` 100% modular
 3. Separar UI em módulos:
    - `ui/forms.py` - Formulários
@@ -403,7 +403,7 @@ python VERSION.py
 - ✅ requirements-dev.txt criado
 - ✅ Tudo commitado e (se possível) enviado para GitHub
 
-**Próximo Passo:** Iniciar desenvolvimento da v3.0.0-alpha.2 com refatoração do WallBot_Firefox.py
+**Próximo Passo:** Iniciar desenvolvimento da v3.0.0-alpha.2 com refatoração do WallBot.py
 
 ---
 
@@ -444,3 +444,4 @@ pytest tests/ -v -m "not slow"
 ```
 
 Boa sorte amanhã! 🎉
+

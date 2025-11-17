@@ -26,9 +26,9 @@ Necxt - Caixa/
 ├── VERSIONING_STRATEGY.md          # Estratégia completa de versionamento
 ├── PLANO_MELHORIA_WALLBOT.md      # Plano de migração Chrome
 ├── ANALISE_TECNICA.md              # Análise geral do projeto
-├── ANALISE_WALLBOT_FIREFOX.md      # Análise detalhada Firefox
+├── ANALISE_WallBot.md      # Análise detalhada Firefox
 ├── ISSUES_GITHUB.md                # Template de issues
-├── WallBot_Firefox.py              # Código atual (v2.1.0)
+├── WallBot.py              # Código atual (v2.1.0)
 └── SETUP_COMPLETO.md               # Este arquivo
 ```
 
@@ -183,8 +183,8 @@ if check_version_compatibility("2.0.0"):
 **O que é:** Análise geral do projeto Necxt - Caixa
 **Quando usar:** Para entender todo o projeto
 
-### 6. ANALISE_WALLBOT_FIREFOX.md
-**O que é:** Análise profunda do WallBot_Firefox
+### 6. ANALISE_WallBot.md
+**O que é:** Análise profunda do WallBot
 **Quando usar:** Para entender falhas e melhorias
 
 ### 7. ISSUES_GITHUB.md
@@ -281,7 +281,7 @@ git push origin main develop v2.1.1
 
 # Opção 1: Checkout temporário
 git checkout v2.1.0-firefox-stable
-python "Necxt - Caixa/WallBot_Firefox.py"
+python "Necxt - Caixa/WallBot.py"
 
 # Opção 2: Rollback permanente (CUIDADO!)
 git checkout main
@@ -304,7 +304,7 @@ git push origin main
 git checkout v2.1.0-firefox-stable
 
 # 2. Executar
-python "Necxt - Caixa/WallBot_Firefox.py"
+python "Necxt - Caixa/WallBot.py"
 
 # 3. Testar com 5-10 protocolos
 # 4. Verificar logs e resultados
@@ -479,3 +479,4 @@ Sistema de versionamento **completo e operacional**!
 **Mantido por:** Equipe WallBot
 **Última atualização:** 2025-10-29
 **Versão deste documento:** 1.0
+

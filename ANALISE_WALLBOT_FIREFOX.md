@@ -1,7 +1,7 @@
-# Análise Detalhada: WallBot_Firefox.py
+# Análise Detalhada: WallBot.py
 
 **Data:** 29 de Outubro de 2025
-**Arquivo:** `Necxt - Caixa/WallBot_Firefox.py` (1126 linhas)
+**Arquivo:** `Necxt - Caixa/WallBot.py` (1126 linhas)
 **Versão:** v2.1 (Firefox)
 **Branch:** origin/main
 
@@ -817,7 +817,7 @@ def salvar_progresso(progresso):
 
 ## 9. CONCLUSÃO
 
-O **WallBot_Firefox.py** é significativamente superior às versões anteriores (v1 e v2 Chrome), com:
+O **WallBot.py** é significativamente superior às versões anteriores (v1 e v2 Chrome), com:
 
 ### ✅ Pontos Fortes:
 1. Sistema de reconexão automática robusto
@@ -843,3 +843,4 @@ Com as correções propostas, pode facilmente chegar a **9.5/10**.
 **Documento gerado por:** Claude Code
 **Versão do Documento:** 1.0
 **Última atualização:** 29/10/2025
+

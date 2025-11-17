@@ -372,7 +372,7 @@ print(f"Debug: {debug}")
 
 ```python
 # Código antigo
-from WallBot_Firefox import criar_driver, fazer_login
+from WallBot import criar_driver, fazer_login
 
 driver = criar_driver()
 fazer_login(driver, email, senha)
@@ -418,7 +418,7 @@ Se encontrar problemas com v3.0.0:
 git checkout v2.1.0-firefox-stable
 
 # Executar versão antiga
-python WallBot_Firefox.py
+python WallBot.py
 ```
 
 ---
@@ -713,3 +713,4 @@ pytest tests/ --cov=config --cov=selectors --cov=validators --cov=drivers
 **Última atualização:** 2025-10-30
 **Versão do guia:** 1.0
 **Compatível com:** WallBot v3.0.0-alpha.1
+
